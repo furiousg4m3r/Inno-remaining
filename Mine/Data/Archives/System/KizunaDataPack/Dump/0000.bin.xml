@@ -1,878 +1,880 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000028</MemoryOffset>
+   <MemoryOffset Module="Main">0</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>アスティオン</JapaneseText>
-  <EnglishText>f</EnglishText>
+  <JapaneseText>なし</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">49</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>なし</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">98</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>なし</JapaneseText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000051</MemoryOffset>
+   <MemoryOffset Module="Main">147</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>味方単体の術攻撃力を一定時間上げる初級術</JapaneseText>
+  <JapaneseText>なし</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000108</MemoryOffset>
+   <MemoryOffset Module="Main">196</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ダンシングエッジ</JapaneseText>
+  <JapaneseText>なし</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000131</MemoryOffset>
+   <MemoryOffset Module="Main">245</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象に召喚した無数の剣を放つ初級術</JapaneseText>
+  <JapaneseText>なし</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000001E8</MemoryOffset>
+   <MemoryOffset Module="Main">294</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ブラストストリーク</JapaneseText>
+  <JapaneseText>なし</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000211</MemoryOffset>
+   <MemoryOffset Module="Main">343</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>レーザーを地面に向けて扇状に照射し
-軌跡にそって爆発する中級術</JapaneseText>
+  <JapaneseText>なし</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000002C8</MemoryOffset>
+   <MemoryOffset Module="Main">392</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>メテオスウォーム</JapaneseText>
+  <JapaneseText>なし</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000002F1</MemoryOffset>
+   <MemoryOffset Module="Main">441</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>無数の隕石をフィールド上に落下させ
-大ダメージを与える上級術</JapaneseText>
+  <JapaneseText>なし</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000003A8</MemoryOffset>
+   <MemoryOffset Module="Main">490</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>フィアフルフレア</JapaneseText>
+  <JapaneseText>コイツ…ホントに大丈夫？</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000003D1</MemoryOffset>
+   <MemoryOffset Module="Main">539</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>上空から闇色の火炎弾が降り注ぎ
-命中した相手を一定確率で毒にする初級術</JapaneseText>
+  <JapaneseText>ホント、頼りないヤツ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000488</MemoryOffset>
+   <MemoryOffset Module="Main">588</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ファイアボール</JapaneseText>
+  <JapaneseText>もっとしっかりすれば……</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000004B1</MemoryOffset>
+   <MemoryOffset Module="Main">637</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象に火炎弾を放つ初級術</JapaneseText>
+  <JapaneseText>最近やるじゃない</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000568</MemoryOffset>
+   <MemoryOffset Module="Main">686</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>スパイラルフレア</JapaneseText>
+  <JapaneseText>イジりがいがあるわよね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000591</MemoryOffset>
+   <MemoryOffset Module="Main">735</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象に渦巻く炎の塊を打ち出す中級術</JapaneseText>
+  <JapaneseText>なぁんか、良い感じよね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000648</MemoryOffset>
+   <MemoryOffset Module="Main">784</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>エクスプロード</JapaneseText>
+  <JapaneseText>頼りにしてるわよ！</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000671</MemoryOffset>
+   <MemoryOffset Module="Main">833</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の足元に凄まじい熱量の大爆発を引き起し
-広範囲を巻き込む上級術</JapaneseText>
+  <JapaneseText>一緒にいると楽しいわ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000728</MemoryOffset>
+   <MemoryOffset Module="Main">882</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>クリムゾンフレア</JapaneseText>
+  <JapaneseText>出会えてよかったと思うわ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000751</MemoryOffset>
+   <MemoryOffset Module="Main">931</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の頭上に魔法陣を展開させ
-炎の柱で焼き尽くす上級術</JapaneseText>
+  <JapaneseText>ま、これからもヨロシクね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000808</MemoryOffset>
+   <MemoryOffset Module="Main">980</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>アイスニードル</JapaneseText>
+  <JapaneseText>ウジウジした野郎だぜ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000831</MemoryOffset>
+   <MemoryOffset Module="Main">1029</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の頭上に氷柱を落として攻撃する初級術</JapaneseText>
+  <JapaneseText>もっとハッキリ言いやがれ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000008E8</MemoryOffset>
+   <MemoryOffset Module="Main">1078</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>スプレッド</JapaneseText>
+  <JapaneseText>甘いけどイイヤツじゃん</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000911</MemoryOffset>
+   <MemoryOffset Module="Main">1127</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の足元から
-圧縮した水流を上空に向けて打ち出す中級術</JapaneseText>
+  <JapaneseText>ちょっとはやるじゃねぇか</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000009C8</MemoryOffset>
+   <MemoryOffset Module="Main">1176</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>インブレイスエンド</JapaneseText>
+  <JapaneseText>オレも負けてられねぇぜ！</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000009F1</MemoryOffset>
+   <MemoryOffset Module="Main">1225</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の周囲に巨大な氷塊を発生させ
-絶対零度の牢獄に閉じ込める上級術</JapaneseText>
+  <JapaneseText>イジりがいのあるヤツだぜ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000AA8</MemoryOffset>
+   <MemoryOffset Module="Main">1274</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>メイルシュトローム</JapaneseText>
+  <JapaneseText>サイコーの親友だぜ！</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000AD1</MemoryOffset>
+   <MemoryOffset Module="Main">1323</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象を中心とした足元に
-広範囲の敵を飲み込む大渦を発生させる上級術</JapaneseText>
+  <JapaneseText>前世の縁に感謝だな</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000B88</MemoryOffset>
+   <MemoryOffset Module="Main">1372</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ストーンブラスト</JapaneseText>
+  <JapaneseText>こいつとなら、戦えるぜ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000BB1</MemoryOffset>
+   <MemoryOffset Module="Main">1421</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の足元から石を湧き出させる初級術</JapaneseText>
+  <JapaneseText>オレが全力で守る！</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000C68</MemoryOffset>
+   <MemoryOffset Module="Main">1470</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>マッシブロック</JapaneseText>
+  <JapaneseText>前世の縁って、不思議ね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000C91</MemoryOffset>
+   <MemoryOffset Module="Main">1519</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の頭上に巨大な岩を落下させる中級術</JapaneseText>
+  <JapaneseText>もっと心を開いて欲しいな</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000D48</MemoryOffset>
+   <MemoryOffset Module="Main">1568</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>グランドダッシャー</JapaneseText>
+  <JapaneseText>いろんな話をしてみたいわ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000D71</MemoryOffset>
+   <MemoryOffset Module="Main">1617</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の足元に地割れを起し
-巨大な岩を隆起させる上級術</JapaneseText>
+  <JapaneseText>自分を好きになってあげて</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000E28</MemoryOffset>
+   <MemoryOffset Module="Main">1666</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>グラビティ</JapaneseText>
+  <JapaneseText>弟ってこんな感じかな？</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000E51</MemoryOffset>
+   <MemoryOffset Module="Main">1715</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>広範囲に亘る重力磁場を発生させ
-敵を押し潰す上級術</JapaneseText>
+  <JapaneseText>頑張ってるみたいね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000F08</MemoryOffset>
+   <MemoryOffset Module="Main">1764</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ウィンドカッター</JapaneseText>
+  <JapaneseText>頼もしくなってきたわね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000F31</MemoryOffset>
+   <MemoryOffset Module="Main">1813</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象に風の刃を打ち出す初級術</JapaneseText>
+  <JapaneseText>あなたがいるだけで安心よ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000FE8</MemoryOffset>
+   <MemoryOffset Module="Main">1862</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>クロスウィンド</JapaneseText>
+  <JapaneseText>良い仲間に出会えたわ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001011</MemoryOffset>
+   <MemoryOffset Module="Main">1911</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>四方からの風の刃が対象を切り刻み
-竜巻を発生させる中級術</JapaneseText>
+  <JapaneseText>わたしの背中、お願いね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000010C8</MemoryOffset>
+   <MemoryOffset Module="Main">1960</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>サイクロン</JapaneseText>
+  <JapaneseText>子守は勘弁だ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000010F1</MemoryOffset>
+   <MemoryOffset Module="Main">2009</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>巨大な竜巻が対象を切り刻む上級術</JapaneseText>
+  <JapaneseText>護衛の邪魔だ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000011A8</MemoryOffset>
+   <MemoryOffset Module="Main">2058</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>テンペスト</JapaneseText>
+  <JapaneseText>気の弱いガキだ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000011D1</MemoryOffset>
+   <MemoryOffset Module="Main">2107</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>複数の巨大な竜巻が広範囲の敵を蹂躙する上級術</JapaneseText>
+  <JapaneseText>見直した</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001288</MemoryOffset>
+   <MemoryOffset Module="Main">2156</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ライトニング</JapaneseText>
+  <JapaneseText>意外とやるものだな</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000012B1</MemoryOffset>
+   <MemoryOffset Module="Main">2205</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の上空から小さな落雷を発生させる初級術</JapaneseText>
+  <JapaneseText>仲間というのも悪くないな</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001368</MemoryOffset>
+   <MemoryOffset Module="Main">2254</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>スパークウェブ</JapaneseText>
+  <JapaneseText>将来が楽しみだな</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001391</MemoryOffset>
+   <MemoryOffset Module="Main">2303</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象を中心に球状に拡がり放電する中級術</JapaneseText>
+  <JapaneseText>頼もしくなってきたな</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001448</MemoryOffset>
+   <MemoryOffset Module="Main">2352</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>サンダーブレード</JapaneseText>
+  <JapaneseText>安心して背中を任せられる</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001471</MemoryOffset>
+   <MemoryOffset Module="Main">2401</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>電撃の剣を地面に突き刺し
-魔法陣内の敵に電撃を浴びせる上級術</JapaneseText>
+  <JapaneseText>言葉にせずとも良いだろう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001528</MemoryOffset>
+   <MemoryOffset Module="Main">2450</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>インディグネイション</JapaneseText>
+  <JapaneseText>ちょっと頼りないなぁ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001551</MemoryOffset>
+   <MemoryOffset Module="Main">2499</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の頭上を中心とした広範囲に
-凄まじい落雷を発生させる上級術</JapaneseText>
+  <JapaneseText>ウチがいないとあかんなぁ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001608</MemoryOffset>
+   <MemoryOffset Module="Main">2548</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>フォトン</JapaneseText>
+  <JapaneseText>手間のかかる子や</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001631</MemoryOffset>
+   <MemoryOffset Module="Main">2597</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象に光の粒子を収束させて攻撃する初級術</JapaneseText>
+  <JapaneseText>最近、エエ感じとちゃう？</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000016E8</MemoryOffset>
+   <MemoryOffset Module="Main">2646</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>レイ</JapaneseText>
+  <JapaneseText>たくましくなったなぁ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001711</MemoryOffset>
+   <MemoryOffset Module="Main">2695</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の頭上から降り注ぐ光で攻撃する中級術</JapaneseText>
+  <JapaneseText>ウチも頑張らないとあかん</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000017C8</MemoryOffset>
+   <MemoryOffset Module="Main">2744</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>グランドクロス</JapaneseText>
+  <JapaneseText>安心して背中任せられるわ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000017F1</MemoryOffset>
+   <MemoryOffset Module="Main">2793</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の足元に魔法陣を展開させ
-光の柱と十字の光により攻撃する上級術</JapaneseText>
+  <JapaneseText>兄ちゃんといると温かいわ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000018A8</MemoryOffset>
+   <MemoryOffset Module="Main">2842</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>シャドウエッジ</JapaneseText>
+  <JapaneseText>ウチの大事な人や！</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000018D1</MemoryOffset>
+   <MemoryOffset Module="Main">2891</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の背後の足元から
-黒い刃を突き刺す初級術</JapaneseText>
+  <JapaneseText>ウチが守ったるわ！</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001988</MemoryOffset>
+   <MemoryOffset Module="Main">2940</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>デモンズランス</JapaneseText>
+  <JapaneseText>ルカ・ミルダ。興味深いね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000019B1</MemoryOffset>
+   <MemoryOffset Module="Main">2989</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の頭上に出現させた黒槍を急降下させ
-衝撃波を引き起こす中級術</JapaneseText>
+  <JapaneseText>見ていて飽きないよ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001A68</MemoryOffset>
+   <MemoryOffset Module="Main">3038</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ブラックホール</JapaneseText>
+  <JapaneseText>想像よりも大人しいね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001A91</MemoryOffset>
+   <MemoryOffset Module="Main">3087</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の頭上にブラックホールを発生させ
-大ダメージを与える上級術</JapaneseText>
+  <JapaneseText>もっと心を開けばいいのに</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001B48</MemoryOffset>
+   <MemoryOffset Module="Main">3136</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ブラッディハウリング</JapaneseText>
+  <JapaneseText>ボクから歩みよろうかな</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001B71</MemoryOffset>
+   <MemoryOffset Module="Main">3185</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象を中心に魔法陣を展開させ
-噴き上げる瘴気で攻撃する上級術</JapaneseText>
+  <JapaneseText>最近、しっかりしてきたね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001C28</MemoryOffset>
+   <MemoryOffset Module="Main">3234</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ピコハン</JapaneseText>
+  <JapaneseText>少し頼もしくなってきたね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001C51</MemoryOffset>
+   <MemoryOffset Module="Main">3283</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の頭上にハンマーを落として
-一定確率で気絶させる初級術</JapaneseText>
+  <JapaneseText>見違えるほど成長したね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001D08</MemoryOffset>
+   <MemoryOffset Module="Main">3332</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>スポイル・ウェポン</JapaneseText>
+  <JapaneseText>彼の持つ空気は心地よいね</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001D31</MemoryOffset>
+   <MemoryOffset Module="Main">3381</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の物理攻撃力を下げる初級術</JapaneseText>
+  <JapaneseText>絆…ね。悪くはないかな</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001DE8</MemoryOffset>
+   <MemoryOffset Module="Main">3430</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>スポイル・アーマー</JapaneseText>
+  <JapaneseText>名前覚える、難しい…</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001E11</MemoryOffset>
+   <MemoryOffset Module="Main">3479</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の物理防御力を下げる初級術</JapaneseText>
+  <JapaneseText>ルカ、いい人</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001EC8</MemoryOffset>
+   <MemoryOffset Module="Main">3528</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>スポイル・マインド</JapaneseText>
+  <JapaneseText>もとルカのこと知りたい</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001EF1</MemoryOffset>
+   <MemoryOffset Module="Main">3577</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の術攻撃力を下げる初級術</JapaneseText>
+  <JapaneseText>キュキュの友達</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001FA8</MemoryOffset>
+   <MemoryOffset Module="Main">3626</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>スポイル・レジスト</JapaneseText>
+  <JapaneseText>頼ってくれる、うれしい</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00001FD1</MemoryOffset>
+   <MemoryOffset Module="Main">3675</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>対象の術防御力を下げる初級術</JapaneseText>
+  <JapaneseText>信頼できる仲間</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00002088</MemoryOffset>
+   <MemoryOffset Module="Main">3724</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>サイレントエンド</JapaneseText>
+  <JapaneseText>ルカ、すごく頑張ってる</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000020B1</MemoryOffset>
+   <MemoryOffset Module="Main">3773</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>本の数ページを敵の周囲にばら撒き
-光の球体が広がり覆い尽くす秘奥義</JapaneseText>
+  <JapaneseText>後ろ、任せた！</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00002168</MemoryOffset>
+   <MemoryOffset Module="Main">3822</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>インヌメルムアーツ</JapaneseText>
+  <JapaneseText>一緒なら、誰にも負けない</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00002191</MemoryOffset>
+   <MemoryOffset Module="Main">3871</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>数多の武器を召喚して攻撃する秘奥義</JapaneseText>
+  <JapaneseText>キュキュ、ルカ大好き</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
