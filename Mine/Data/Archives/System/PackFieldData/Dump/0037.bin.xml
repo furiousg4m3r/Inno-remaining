@@ -6,7 +6,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカ戦闘不能</JapaneseText>
-  <EnglishText>heh</EnglishText>
+  <EnglishText>Unconcious Ruca</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>イリア戦闘不能</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Unconcious Illia</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スパーダ戦闘不能</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Unconcious Spada</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アンジュ戦闘不能</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Unconscious Ange</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リカルド戦闘不能</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Unconcious Ricardo</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>エルマーナ戦闘不能</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Unconcious Hermana</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>コンウェイ戦闘不能</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Unconcious Kongwei</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>キュキュ戦闘不能</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Unconcious QQ</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>遭遇１００回達成！</JapaneseText>
-  <EnglishText/>
+  <EnglishText>100 Encounters Achieved!</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>遭遇２５０回達成！</JapaneseText>
-  <EnglishText/>
+  <EnglishText>250 Encounters Achieved!</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -116,7 +116,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>祝５００回達成！</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Yay! 500 Encounters Achieved!</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -127,7 +127,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>遭遇７５０回達成！</JapaneseText>
-  <EnglishText/>
+  <EnglishText>750 Encounters Achieved!</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -138,7 +138,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>祝！　遭遇１０００回達成！</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Hooray! 1000 Encounters Achieved!</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -149,7 +149,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>コンボ初心者</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Combo Rookie</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -160,7 +160,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>コンボ茶帯</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Combo Amateur</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -171,7 +171,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>コンボ初段</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Combo Senior</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -182,7 +182,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>コンボ師範代</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Combo Expert</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -193,7 +193,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>コンボの達人</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Combo Master</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -204,7 +204,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>全員最強を目指せ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>All Hands Aim to be the Strongest</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -215,7 +215,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>最強への道のり</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Journey Towards Being the Strongest</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -226,7 +226,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>最強の頂点、未だ見えず</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Unseen Strongest Summit</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -237,7 +237,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>最強の中間地点</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Halfway Towards Being the Strongest</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -248,7 +248,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>最強集団</JapaneseText>
-  <EnglishText/>
+  <EnglishText>The Strongest Party</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -259,7 +259,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>僕このままで…</JapaneseText>
-  <EnglishText/>
+  <EnglishText>As It Is...</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -270,7 +270,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>楽だけど</JapaneseText>
-  <EnglishText/>
+  <EnglishText>It's Peaceful, But...</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -281,7 +281,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>なまってやがる</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Getting Rusty</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -292,7 +292,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>運動不足</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Insufficient Exercise</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -303,7 +303,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>カンが鈍る</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Becoming Dull</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -314,7 +314,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>退屈な日々</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Boring Days</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -325,7 +325,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>平穏</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Tranquility</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -336,7 +336,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>えらい、立派、かわいい</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Tough, Praiseworthy, Cute</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -347,7 +347,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>動きにくい</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Hard to Move in...</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -358,7 +358,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>恐怖のうさみみ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>The Dreaded Rabbit Ears</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -369,7 +369,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>最後の食事</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Last Supper</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -380,7 +380,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>この時間だけでも</JapaneseText>
-  <EnglishText/>
+  <EnglishText>At Least this Time</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -391,7 +391,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>暑いのに鍋</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Hotpot in a Hotplace</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -402,7 +402,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>寒い寒い</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Cold 'n Cold</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -413,7 +413,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>その水はどこから？</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Where'd You Get That Water?</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -424,7 +424,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>暑いときには冷たいもの</JapaneseText>
-  <EnglishText/>
+  <EnglishText>You Really Gotta Have Cold Stuff When It's Hot</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -435,7 +435,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>寒い熱い</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Cold 'n Hot</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -446,7 +446,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>辛いのは苦手！</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Weak against Spicy Food</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -457,7 +457,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>シアンとご飯</JapaneseText>
-  <EnglishText/>
+  <EnglishText>A Meal with Sian</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -468,7 +468,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>コーダの嫌いなものは？</JapaneseText>
-  <EnglishText/>
+  <EnglishText>What Does Coda Hate?</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -479,7 +479,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>コーダはなぜ太らない？</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Why Is Coda Not Fat?</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -490,7 +490,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>気配り上手</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Thoughtfulness</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -501,7 +501,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リカルドのおにぎり</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Ricardo's Rice Balls</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -512,7 +512,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リカルドの熱い想い</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Ricardo's Passion</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -523,7 +523,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>勿体ないは魔法の言葉</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Leftovers Is the Magic Word!</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -534,7 +534,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>笑顔のオムライス</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Smiling Omelette Rice</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -545,7 +545,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>丸ごと一本バナナカレーを食す</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Whole Banana Curry</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -556,7 +556,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>絶品サンドウィッチ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Superb Sandwich</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -567,7 +567,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>うぐっ！？</JapaneseText>
-  <EnglishText/>
+  <EnglishText>!?</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -578,7 +578,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>やきそばパンの思い出</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Memories of Yakisoba Sandwich</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -589,7 +589,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>チーズフォンデュ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Cheese Fondue</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -600,7 +600,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>奪われた肉</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Stolen Meat</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -611,7 +611,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>パックまんを食す</JapaneseText>
-  <EnglishText/>
+  <EnglishText>A Taste of the Pac-Man Bun</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -622,7 +622,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>好物はシーフードパスタ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>My Favorite Food is Seafood Pasta</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -633,7 +633,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>大人の特権</JapaneseText>
-  <EnglishText/>
+  <EnglishText>An Adult's Privilege</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -644,7 +644,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>幸せ！</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Happiness!</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -655,7 +655,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>サバみそパスタを食す</JapaneseText>
-  <EnglishText/>
+  <EnglishText>A Taste of Miso Mackerel Pasta</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -666,7 +666,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>なんでサラダ？</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Why Salad?</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -677,7 +677,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ステーキ違い</JapaneseText>
-  <EnglishText/>
+  <EnglishText>This Isn't Steak!</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -688,7 +688,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>４人でやれば</JapaneseText>
-  <EnglishText/>
+  <EnglishText>If It’s the Four of Us</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -699,7 +699,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>キノコ食べ放題？</JapaneseText>
-  <EnglishText/>
+  <EnglishText>All-You-Can-Eat Mushrooms?</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -710,7 +710,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>困ったときはお互い様１</JapaneseText>
-  <EnglishText/>
+  <EnglishText>When in Trouble, Help Each Other 1</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -721,7 +721,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>困ったときはお互い様２</JapaneseText>
-  <EnglishText/>
+  <EnglishText>When in Trouble, Help Each Other 2</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -732,7 +732,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>秘伝野菜汁を飲み干す</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Secret Vegetable Soup</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -743,7 +743,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>プラスマイナスゼロ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Coming Out Even</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -754,7 +754,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>セルフやきとり</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Self-Service Yakitori</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -765,7 +765,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>一番大きいのはどれ？</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Which One Is Best?</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -776,7 +776,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リカルドのハンバーグ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Ricardo's Hamburger</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -787,7 +787,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ご機嫌なイリア</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Cheery Illia</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -798,7 +798,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スキあり</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Wide Open!</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -809,7 +809,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>お好み焼きと不吉な…</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Okonomiyaki and Bad Luck...</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -820,7 +820,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>仁義なき争奪戦</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Struggle for Supremacy</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -831,7 +831,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>チキンの丸焼きを食す</JapaneseText>
-  <EnglishText/>
+  <EnglishText>A Taste of Whole Roast Chicken</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -842,7 +842,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>続チキンの丸焼きを食す</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Another Taste of Whole Roast Chicken</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -853,7 +853,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ヘルシー？</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Healthy?</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -864,7 +864,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>生臭い</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Smells Fishy</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -875,7 +875,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>男のプライド</JapaneseText>
-  <EnglishText/>
+  <EnglishText>A Man’s Pride</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -886,7 +886,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>これはなに？</JapaneseText>
-  <EnglishText/>
+  <EnglishText>What Is This?</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -897,7 +897,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>プリンアラモード？</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Pudding à la Mode</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -908,7 +908,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>似合わない姿</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Unsuitable Appearance</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -919,7 +919,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>チョコバナナ天を食す</JapaneseText>
-  <EnglishText/>
+  <EnglishText>A Taste of Deep Fried Chocolate Banana</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -930,7 +930,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ホットチョコレートの魔力</JapaneseText>
-  <EnglishText/>
+  <EnglishText>The Magical Power of Hot Chocolate</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -941,7 +941,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>繊細な味</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Delicate Flavor</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -952,7 +952,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>嫌いなものはないの？</JapaneseText>
-  <EnglishText/>
+  <EnglishText>There’s Nothing You Dislike?</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -963,7 +963,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>絞りカスは</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Squeezed Pulps</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -974,7 +974,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>タマネギにご注意</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Beware of Onions</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -985,7 +985,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>作るのは得意でも</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Even If You’re Good at It</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -996,7 +996,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>全力拒否</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Refuse with All Your Might</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1007,7 +1007,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>幸せ野菜ジュース</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Happy Vegetable Juice</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1018,7 +1018,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>おかわりするアンジュ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Another Helping, Ange!</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1029,7 +1029,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>見た目で楽しむ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Food Art</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1040,7 +1040,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>チーズスープを食す</JapaneseText>
-  <EnglishText/>
+  <EnglishText>A Taste of Cheese Soup</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
