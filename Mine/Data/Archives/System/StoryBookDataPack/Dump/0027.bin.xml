@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@下水道@@に住む孤児の少女</JapaneseText>
+  <JapaneseText>&lt;Color:240>下水道&lt;Color:440>に住む孤児の少女</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -27,7 +27,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@エルマーナ@@から</JapaneseText>
+  <JapaneseText>&lt;Color:340>エルマーナ&lt;Color:440>から</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -71,7 +71,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@下水道の奥にある鍾乳洞@@で</JapaneseText>
+  <JapaneseText>&lt;Color:240>下水道の奥にある鍾乳洞&lt;Color:440>で</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

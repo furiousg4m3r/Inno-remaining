@@ -27,7 +27,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@兵器工場@@を目指すルカたち。</JapaneseText>
+  <JapaneseText>&lt;Color:240>兵器工場&lt;Color:440>を目指すルカたち。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -38,7 +38,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@テノス兵器工場@@で</JapaneseText>
+  <JapaneseText>&lt;Color:240>テノス兵器工場&lt;Color:440>で</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -71,7 +71,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@天空城@@が、その姿を現す。</JapaneseText>
+  <JapaneseText>&lt;Color:340>天空城&lt;Color:440>が、その姿を現す。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

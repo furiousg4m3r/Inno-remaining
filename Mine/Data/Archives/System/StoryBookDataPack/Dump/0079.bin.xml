@@ -38,7 +38,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@サニア村@@の近くだった。</JapaneseText>
+  <JapaneseText>&lt;Color:240>サニア村&lt;Color:440>の近くだった。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -60,7 +60,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>シアンとともに@@サニア村@@へ向かう</JapaneseText>
+  <JapaneseText>シアンとともに&lt;Color:240>サニア村&lt;Color:440>へ向かう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

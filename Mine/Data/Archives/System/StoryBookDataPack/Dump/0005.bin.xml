@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>さらに、@@レグヌム峠@@を越えた先</JapaneseText>
+  <JapaneseText>さらに、&lt;Color:240>レグヌム峠&lt;Color:440>を越えた先</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -104,7 +104,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>南東にある@@聖都ナーオス@@へ向かう</JapaneseText>
+  <JapaneseText>南東にある&lt;Color:240>聖都ナーオス&lt;Color:440>へ向かう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

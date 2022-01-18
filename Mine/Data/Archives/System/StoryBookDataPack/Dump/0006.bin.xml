@@ -27,7 +27,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@転生者研究所@@に連行されるルカと</JapaneseText>
+  <JapaneseText>&lt;Color:240>転生者研究所&lt;Color:440>に連行されるルカと</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -38,7 +38,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>イリア。そこで、@@スパーダ@@と@@チトセ@@</JapaneseText>
+  <JapaneseText>イリア。そこで、&lt;Color:340>スパーダ&lt;Color:440>と&lt;Color:340>チトセ&lt;Color:440></JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@聖剣デュランダル@@だったと判明する</JapaneseText>
+  <JapaneseText>&lt;Color:340>聖剣デュランダル&lt;Color:440>だったと判明する</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

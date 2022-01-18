@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>船に乗り、@@ガラム@@へ向かうルカたち</JapaneseText>
+  <JapaneseText>船に乗り、&lt;Color:240>ガラム&lt;Color:440>へ向かうルカたち</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -60,7 +60,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ガラム港@@に到着したルカたちは</JapaneseText>
+  <JapaneseText>&lt;Color:240>ガラム港&lt;Color:440>に到着したルカたちは</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -71,7 +71,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ガラム@@へ向かうため、@@ガラム港@@</JapaneseText>
+  <JapaneseText>&lt;Color:240>ガラム&lt;Color:440>へ向かうため、&lt;Color:240>ガラム港&lt;Color:440></JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@北東のカリュプス鉱山@@を目指す</JapaneseText>
+  <JapaneseText>&lt;Color:240>北東のカリュプス鉱山&lt;Color:440>を目指す</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

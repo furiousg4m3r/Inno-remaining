@@ -38,7 +38,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>テノスの貴族@@アルベール@@や創世力に</JapaneseText>
+  <JapaneseText>テノスの貴族&lt;Color:340>アルベール&lt;Color:440>や創世力に</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@王都レグヌム@@へ向かう</JapaneseText>
+  <JapaneseText>&lt;Color:240>王都レグヌム&lt;Color:440>へ向かう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

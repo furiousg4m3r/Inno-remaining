@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ジャングル@@の入り口で</JapaneseText>
+  <JapaneseText>&lt;Color:240>ジャングル&lt;Color:440>の入り口で</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -38,7 +38,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ジャングル@@に記憶の場があると</JapaneseText>
+  <JapaneseText>&lt;Color:240>ジャングル&lt;Color:440>に記憶の場があると</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@創世力の使い方@@について語っている</JapaneseText>
+  <JapaneseText>&lt;Color:340>創世力の使い方&lt;Color:440>について語っている</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

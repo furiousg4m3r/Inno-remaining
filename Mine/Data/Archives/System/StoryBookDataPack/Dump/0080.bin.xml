@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>教団の本拠地、@@黎明の塔@@を目指し、</JapaneseText>
+  <JapaneseText>教団の本拠地、&lt;Color:240>黎明の塔&lt;Color:440>を目指し、</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -104,7 +104,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@魂の巡礼路カルディア@@へと向かう</JapaneseText>
+  <JapaneseText>&lt;Color:240>魂の巡礼路カルディア&lt;Color:440>へと向かう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

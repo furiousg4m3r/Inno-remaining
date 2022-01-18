@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ナーオス@@を立つ際、改めてイリア、</JapaneseText>
+  <JapaneseText>&lt;Color:240>ナーオス&lt;Color:440>を立つ際、改めてイリア、</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -49,7 +49,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@憂いの森@@は手強い敵が多く</JapaneseText>
+  <JapaneseText>&lt;Color:240>憂いの森&lt;Color:440>は手強い敵が多く</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>そこに以前、ルカが@@レグヌム@@で</JapaneseText>
+  <JapaneseText>そこに以前、ルカが&lt;Color:240>レグヌム&lt;Color:440>で</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

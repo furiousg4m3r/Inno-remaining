@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ナーオス基地@@から脱出する際</JapaneseText>
+  <JapaneseText>&lt;Color:240>ナーオス基地&lt;Color:440>から脱出する際</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -27,7 +27,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>謎の男@@ガードル@@が現れ、戦闘になる</JapaneseText>
+  <JapaneseText>謎の男&lt;Color:340>ガードル&lt;Color:440>が現れ、戦闘になる</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -60,7 +60,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>一路、@@ナーオスのハルトマン宅@@へ</JapaneseText>
+  <JapaneseText>一路、&lt;Color:240>ナーオスのハルトマン宅&lt;Color:440>へ</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

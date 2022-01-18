@@ -27,7 +27,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>同級生の@@エディ@@と@@ニーノ@@から</JapaneseText>
+  <JapaneseText>同級生の&lt;Color:340>エディ&lt;Color:440>と&lt;Color:340>ニーノ&lt;Color:440>から</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -71,7 +71,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@フルフィの森@@で</JapaneseText>
+  <JapaneseText>&lt;Color:240>フルフィの森&lt;Color:440>で</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

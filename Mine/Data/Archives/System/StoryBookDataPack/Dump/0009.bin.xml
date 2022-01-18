@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>しかし、その@@王都軍陣営@@から</JapaneseText>
+  <JapaneseText>しかし、その&lt;Color:240>王都軍陣営&lt;Color:440>から</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -104,7 +104,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ルカたちは急いで@@陣営@@へ戻ることに</JapaneseText>
+  <JapaneseText>ルカたちは急いで&lt;Color:240>陣営&lt;Color:440>へ戻ることに</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

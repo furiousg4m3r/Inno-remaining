@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>チトセを倒し、@@船@@を手に入れた</JapaneseText>
+  <JapaneseText>チトセを倒し、&lt;Color:340>船&lt;Color:440>を手に入れた</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ルカたちは@@南の国ガルポス@@へ向かう</JapaneseText>
+  <JapaneseText>ルカたちは&lt;Color:240>南の国ガルポス&lt;Color:440>へ向かう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

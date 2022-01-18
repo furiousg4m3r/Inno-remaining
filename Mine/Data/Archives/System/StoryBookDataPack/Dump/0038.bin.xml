@@ -60,7 +60,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@アシハラ@@に記憶の場があるとすれば</JapaneseText>
+  <JapaneseText>&lt;Color:240>アシハラ&lt;Color:440>に記憶の場があるとすれば</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@アシハラの街を出て北@@へ向かう</JapaneseText>
+  <JapaneseText>&lt;Color:240>アシハラの街を出て北&lt;Color:440>へ向かう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

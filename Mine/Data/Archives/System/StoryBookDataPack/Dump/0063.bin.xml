@@ -71,7 +71,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@マムート@@に到着したルカたちは</JapaneseText>
+  <JapaneseText>&lt;Color:240>マムート&lt;Color:440>に到着したルカたちは</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@北の国テノス@@を目指すため、</JapaneseText>
+  <JapaneseText>&lt;Color:240>北の国テノス&lt;Color:440>を目指すため、</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -104,7 +104,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>まずは@@レムレース湿原@@へと向かう</JapaneseText>
+  <JapaneseText>まずは&lt;Color:240>レムレース湿原&lt;Color:440>へと向かう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

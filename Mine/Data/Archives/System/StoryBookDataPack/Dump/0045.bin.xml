@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@カリュプス鉱山@@を抜け、@@ガラム@@に</JapaneseText>
+  <JapaneseText>&lt;Color:240>カリュプス鉱山&lt;Color:440>を抜け、&lt;Color:240>ガラム&lt;Color:440>に</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -27,7 +27,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>到着したルカたちは、@@ケルム火山@@に</JapaneseText>
+  <JapaneseText>到着したルカたちは、&lt;Color:240>ケルム火山&lt;Color:440>に</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -49,7 +49,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ケルム火山@@で門番から、ハスタが</JapaneseText>
+  <JapaneseText>&lt;Color:240>ケルム火山&lt;Color:440>で門番から、ハスタが</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ケルム火山@@へ向かう</JapaneseText>
+  <JapaneseText>&lt;Color:240>ケルム火山&lt;Color:440>へ向かう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@下水道@@へ帰ってくると</JapaneseText>
+  <JapaneseText>&lt;Color:240>下水道&lt;Color:440>へ帰ってくると</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -38,7 +38,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@商店主@@に連れ去られてしまう。</JapaneseText>
+  <JapaneseText>&lt;Color:340>商店主&lt;Color:440>に連れ去られてしまう。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@商店主の屋敷@@へ向かうルカたち　</JapaneseText>
+  <JapaneseText>&lt;Color:240>商店主の屋敷&lt;Color:440>へ向かうルカたち　</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

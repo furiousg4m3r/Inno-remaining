@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ガルポス@@に到着したルカたち。</JapaneseText>
+  <JapaneseText>&lt;Color:240>ガルポス&lt;Color:440>に到着したルカたち。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -38,7 +38,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@レグヌムの鍾乳洞@@に現れたシアンが</JapaneseText>
+  <JapaneseText>&lt;Color:240>レグヌムの鍾乳洞&lt;Color:440>に現れたシアンが</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -49,7 +49,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@果樹園@@を荒らす現場に遭遇する。</JapaneseText>
+  <JapaneseText>&lt;Color:240>果樹園&lt;Color:440>を荒らす現場に遭遇する。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@北のジャングル@@へと向かう</JapaneseText>
+  <JapaneseText>&lt;Color:240>北のジャングル&lt;Color:440>へと向かう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

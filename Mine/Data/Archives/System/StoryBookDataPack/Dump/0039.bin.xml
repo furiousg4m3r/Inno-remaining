@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@アシハラ王墓@@に到着すると門番から</JapaneseText>
+  <JapaneseText>&lt;Color:240>アシハラ王墓&lt;Color:440>に到着すると門番から</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -49,7 +49,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ルカたち。@@アシハラ@@に戻った</JapaneseText>
+  <JapaneseText>ルカたち。&lt;Color:240>アシハラ&lt;Color:440>に戻った</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -60,7 +60,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ルカたちは、@@ジロチョウ@@から許可と</JapaneseText>
+  <JapaneseText>ルカたちは、&lt;Color:340>ジロチョウ&lt;Color:440>から許可と</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>さっそく@@王墓@@へ向かうことに</JapaneseText>
+  <JapaneseText>さっそく&lt;Color:240>王墓&lt;Color:440>へ向かうことに</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

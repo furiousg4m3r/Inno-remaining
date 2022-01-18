@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@天空城@@に到着したルカたちは</JapaneseText>
+  <JapaneseText>&lt;Color:240>天空城&lt;Color:440>に到着したルカたちは</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -60,7 +60,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@アスラとイナンナがデュランダルで@@</JapaneseText>
+  <JapaneseText>&lt;Color:340>アスラとイナンナがデュランダルで&lt;Color:440></JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -71,7 +71,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@刺し違えている遺体@@を発見する。</JapaneseText>
+  <JapaneseText>&lt;Color:340>刺し違えている遺体&lt;Color:440>を発見する。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

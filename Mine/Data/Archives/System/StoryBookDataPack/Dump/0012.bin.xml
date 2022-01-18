@@ -49,7 +49,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@西の戦場@@を離れたルカたちは</JapaneseText>
+  <JapaneseText>&lt;Color:240>西の戦場&lt;Color:440>を離れたルカたちは</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -71,7 +71,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@レグヌム峠@@を越えて当初の目的地、</JapaneseText>
+  <JapaneseText>&lt;Color:240>レグヌム峠&lt;Color:440>を越えて当初の目的地、</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@聖都ナーオス@@へ向かう</JapaneseText>
+  <JapaneseText>&lt;Color:240>聖都ナーオス&lt;Color:440>へ向かう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

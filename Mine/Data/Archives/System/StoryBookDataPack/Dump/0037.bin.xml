@@ -27,7 +27,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@転生者研究所@@で出会った少女、</JapaneseText>
+  <JapaneseText>&lt;Color:240>転生者研究所&lt;Color:440>で出会った少女、</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -60,7 +60,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>アスラの部下@@サクヤ@@だったことを</JapaneseText>
+  <JapaneseText>アスラの部下&lt;Color:340>サクヤ&lt;Color:440>だったことを</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

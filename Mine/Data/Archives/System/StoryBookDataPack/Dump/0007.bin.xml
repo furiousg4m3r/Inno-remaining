@@ -27,7 +27,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>王都軍幹部@@オズバルド@@の指示により</JapaneseText>
+  <JapaneseText>王都軍幹部&lt;Color:340>オズバルド&lt;Color:440>の指示により</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -38,7 +38,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@西の戦場@@へ送られることになった。</JapaneseText>
+  <JapaneseText>&lt;Color:240>西の戦場&lt;Color:440>へ送られることになった。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@王都軍陣営@@に到着するとルカたちは</JapaneseText>
+  <JapaneseText>&lt;Color:240>王都軍陣営&lt;Color:440>に到着するとルカたちは</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

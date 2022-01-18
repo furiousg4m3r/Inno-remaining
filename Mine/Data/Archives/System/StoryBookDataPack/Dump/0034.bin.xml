@@ -49,7 +49,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@アシハラ@@、@@ガラム@@、@@ガルポス@@、</JapaneseText>
+  <JapaneseText>&lt;Color:240>アシハラ&lt;Color:440>、&lt;Color:240>ガラム&lt;Color:440>、&lt;Color:240>ガルポス&lt;Color:440>、</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -60,7 +60,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>そして、@@テノス@@と判明した。</JapaneseText>
+  <JapaneseText>そして、&lt;Color:240>テノス&lt;Color:440>と判明した。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ハルトマン宅@@で待機することに</JapaneseText>
+  <JapaneseText>&lt;Color:240>ハルトマン宅&lt;Color:440>で待機することに</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

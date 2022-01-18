@@ -71,7 +71,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>アスラの望んだ、@@天と地@@</JapaneseText>
+  <JapaneseText>アスラの望んだ、&lt;Color:340>天と地&lt;Color:440></JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@すべてがひとつとなった世界@@を</JapaneseText>
+  <JapaneseText>&lt;Color:340>すべてがひとつとなった世界&lt;Color:440>を</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

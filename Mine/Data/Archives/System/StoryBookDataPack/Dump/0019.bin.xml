@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ナーオス基地@@からの脱出を試みる</JapaneseText>
+  <JapaneseText>&lt;Color:240>ナーオス基地&lt;Color:440>からの脱出を試みる</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -38,7 +38,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>以前、@@西の戦場@@で出会った傭兵</JapaneseText>
+  <JapaneseText>以前、&lt;Color:240>西の戦場&lt;Color:440>で出会った傭兵</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

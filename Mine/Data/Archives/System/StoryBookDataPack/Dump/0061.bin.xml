@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>そして、@@テノス@@に入国するため</JapaneseText>
+  <JapaneseText>そして、&lt;Color:240>テノス&lt;Color:440>に入国するため</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -104,7 +104,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>いったん@@マムート@@へ向かうことに</JapaneseText>
+  <JapaneseText>いったん&lt;Color:240>マムート&lt;Color:440>へ向かうことに</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

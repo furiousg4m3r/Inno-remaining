@@ -38,7 +38,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ヴリトラ@@だと言う</JapaneseText>
+  <JapaneseText>&lt;Color:340>ヴリトラ&lt;Color:440>だと言う</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -60,7 +60,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ルカたちは@@下水道@@へ戻るのだった</JapaneseText>
+  <JapaneseText>ルカたちは&lt;Color:240>下水道&lt;Color:440>へ戻るのだった</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

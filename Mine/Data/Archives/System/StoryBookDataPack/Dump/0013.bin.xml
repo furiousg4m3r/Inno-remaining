@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ナーオス@@に到着するルカたち</JapaneseText>
+  <JapaneseText>&lt;Color:240>ナーオス&lt;Color:440>に到着するルカたち</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -49,7 +49,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>仕えていた@@ハルトマン@@と出会う。</JapaneseText>
+  <JapaneseText>仕えていた&lt;Color:340>ハルトマン&lt;Color:440>と出会う。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -71,7 +71,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@聖女アンジュ@@の話を聞いた。</JapaneseText>
+  <JapaneseText>&lt;Color:340>聖女アンジュ&lt;Color:440>の話を聞いた。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>ルカたちは南東にある@@憂いの森@@を</JapaneseText>
+  <JapaneseText>ルカたちは南東にある&lt;Color:240>憂いの森&lt;Color:440>を</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>越えた先の、@@ナーオス基地@@へ向かう</JapaneseText>
+  <JapaneseText>越えた先の、&lt;Color:240>ナーオス基地&lt;Color:440>へ向かう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

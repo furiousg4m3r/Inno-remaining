@@ -27,7 +27,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@王都軍陣営@@。その傭兵は、かつて</JapaneseText>
+  <JapaneseText>&lt;Color:240>王都軍陣営&lt;Color:440>。その傭兵は、かつて</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -60,7 +60,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@リカルド@@だった。</JapaneseText>
+  <JapaneseText>&lt;Color:340>リカルド&lt;Color:440>だった。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>そこへ現れる、奇妙な傭兵@@ハスタ@@</JapaneseText>
+  <JapaneseText>そこへ現れる、奇妙な傭兵&lt;Color:340>ハスタ&lt;Color:440></JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

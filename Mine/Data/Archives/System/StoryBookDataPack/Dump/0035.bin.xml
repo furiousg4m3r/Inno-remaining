@@ -71,7 +71,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>船に乗り、@@アシハラ@@へ到着する。</JapaneseText>
+  <JapaneseText>船に乗り、&lt;Color:240>アシハラ&lt;Color:440>へ到着する。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

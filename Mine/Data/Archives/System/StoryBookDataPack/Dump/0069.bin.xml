@@ -27,7 +27,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@神待ちの園@@に到着したルカたち。</JapaneseText>
+  <JapaneseText>&lt;Color:240>神待ちの園&lt;Color:440>に到着したルカたち。</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>その前世は@@天空神ヒンメル@@だという</JapaneseText>
+  <JapaneseText>その前世は&lt;Color:340>天空神ヒンメル&lt;Color:440>だという</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

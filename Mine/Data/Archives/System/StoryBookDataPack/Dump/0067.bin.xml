@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@テノス@@を目指して、@@北の戦場@@を</JapaneseText>
+  <JapaneseText>&lt;Color:240>テノス&lt;Color:440>を目指して、&lt;Color:240>北の戦場&lt;Color:440>を</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@戦場@@を抜けたルカたちは</JapaneseText>
+  <JapaneseText>&lt;Color:240>戦場&lt;Color:440>を抜けたルカたちは</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -104,7 +104,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>さらに北の@@テノス@@を目指す</JapaneseText>
+  <JapaneseText>さらに北の&lt;Color:240>テノス&lt;Color:440>を目指す</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

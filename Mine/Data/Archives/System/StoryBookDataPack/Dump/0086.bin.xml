@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@黎明の塔@@の最上階に到着すると、</JapaneseText>
+  <JapaneseText>&lt;Color:240>黎明の塔&lt;Color:440>の最上階に到着すると、</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -82,7 +82,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>創世力は、@@愛し合う者同士のみが@@</JapaneseText>
+  <JapaneseText>創世力は、&lt;Color:340>愛し合う者同士のみが&lt;Color:440></JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -93,7 +93,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@使える力@@。マティウスには、</JapaneseText>
+  <JapaneseText>&lt;Color:340>使える力&lt;Color:440>。マティウスには、</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>

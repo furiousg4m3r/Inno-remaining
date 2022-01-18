@@ -16,7 +16,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>@@ガルポス@@への船に乗ったルカたちは</JapaneseText>
+  <JapaneseText>&lt;Color:240>ガルポス&lt;Color:440>への船に乗ったルカたちは</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -104,7 +104,7 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>船を奪うため、@@船底@@へ向かう</JapaneseText>
+  <JapaneseText>船を奪うため、&lt;Color:240>船底&lt;Color:440>へ向かう</JapaneseText>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
