@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スパイラルフレア</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Spiral Flare</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>エクスプロード</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Explosion</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アイスニードル</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Ice Needles</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スプレッド</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Spread</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>インブレイスエンド</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Final Embrace</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ストーンブラスト</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Stone Blast</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>マッシブロック</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Boulder Bash</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>グランドダッシャー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Ground Dasher</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ウィンドカッター</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Wind Blade</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -116,7 +116,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>クロスウィンド</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Crosswind</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -127,7 +127,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>サイクロン</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Cyclone</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -138,7 +138,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ライトニング</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Lightning</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -149,7 +149,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スパークウェブ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Spark Wave</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -160,7 +160,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>サンダーブレード</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Thunder Blade</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -171,7 +171,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>フォトン</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Photon</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -182,7 +182,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>レイ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Ray</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -193,7 +193,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>グランドクロス</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Grand Cross</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -204,7 +204,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>シャドウエッジ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Shadow Edge</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -215,7 +215,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>デモンズランス</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Demon's Lance</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -226,7 +226,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ブラックホール</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Black Hole</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -237,7 +237,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ピコハン</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Pow Hammer</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -248,7 +248,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ファーストエイド</JapaneseText>
-  <EnglishText/>
+  <EnglishText>First Aid</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -259,7 +259,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ヒール</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Heal</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -270,7 +270,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>キュア</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Cure</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -281,7 +281,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ナース</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Nurse</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -292,7 +292,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リザレクション</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Revitalize</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -303,7 +303,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ヒールオブアース</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Geotherapy</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -314,7 +314,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ソウルオブアース</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Astral-therapy</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -325,7 +325,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リカバー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Recover</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -336,7 +336,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ディスペル</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Dispel</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -347,7 +347,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アンチマジック</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Anti-Magic</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -358,7 +358,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>レイズデッド</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Resurrection</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -369,7 +369,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>シャープネス</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Sharpness</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -380,7 +380,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>バリアー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Barrier</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -391,7 +391,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アスティオン</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Astion</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -402,7 +402,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>レジスト</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Resist</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -413,7 +413,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スポイル・ウェポン</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Suppress Weapon</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -424,7 +424,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スポイル・アーマー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Suppress Armor</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -435,7 +435,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スポイル・マインド</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Suppress Mind</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -446,7 +446,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スポイル・レジスト</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Suppress Aura</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -479,7 +479,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ワイルドラッシュ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Wild Rush</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -501,7 +501,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アースブレイカー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Earth Breaker</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -512,7 +512,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ブラッディソウル</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Bloody Soul</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -523,7 +523,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>Ｂ・インパクト</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Bloody Impact</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -534,7 +534,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>チャージファング</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Charge Fang</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -567,7 +567,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ディズィーボム</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Dizzy Bomb</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -578,7 +578,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アサルトトリガー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Assault Trigger</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -589,7 +589,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ヘブンズラダー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Heaven's Ladder</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -600,7 +600,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ジャッジメント</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Judgment</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -611,7 +611,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>Ｐ・パーミット</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Punishment Permit</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -633,7 +633,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>青魂零呪</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Spirit’s Curse</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -644,7 +644,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>秘剣封縛</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Hidden Binds</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -666,7 +666,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>桜花乱舞</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Sakura Ballet</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -677,7 +677,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>モータル・シャドウ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Mortal Shadow</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -699,7 +699,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ヤクトラーゼン</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Jagd Reisen</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -754,7 +754,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スタークニヒト</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Stark Nicht</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -765,7 +765,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ナハトエルガー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Nacht Elgar</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -776,7 +776,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>エヒト・シュワルツ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Echt Schwarz</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -820,7 +820,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>崩襲撃</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Devastation</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -831,7 +831,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>旋風槍</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Storm Thrust</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -842,7 +842,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>殺撃槍</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Fatal Lance</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -853,7 +853,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>天破剛雷槍</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Manly Thunder Lance</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -864,7 +864,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>旋風槍・追連</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Storm Thrust: Seeker</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -875,7 +875,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>烈震雷光撃</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Calamity Impact</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -886,7 +886,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>煉舞羅刹槍</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Rakshasa's Ecstasy</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -908,7 +908,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>火旋輪</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Burning Wheel</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -919,7 +919,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>炎舞陣</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Blazing Ring</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -930,7 +930,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>鳳凰天駆</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Rising Phoenix</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -941,7 +941,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>空牙嵐蹴旋</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Pirouette Kick</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -952,7 +952,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>殺劇舞荒拳</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Final Fury</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -974,7 +974,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>鳶氷雨</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Black Kite Hail</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -985,7 +985,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>風梟</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Stormy Owl</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -996,7 +996,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>荒鷹</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Wild Hawk</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1007,7 +1007,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>銃狗鷲・番風</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Golden Eagle</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1029,7 +1029,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アサルトダンス</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Whirling Assault</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1040,7 +1040,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ラウンドエッジ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Shimmer Spin</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1051,7 +1051,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ネガティブホルダー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Binding Sphere</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1062,7 +1062,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>カタラクトレイ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Blade Torrent</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1073,7 +1073,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スプリームエレメンツ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Elemental Mastery</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1282,7 +1282,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ウィークパウダー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Weak Powder</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1293,7 +1293,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>パラライズパウダー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Paralysis Powder</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1304,7 +1304,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>フィアーパウダー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Fear Powder</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1315,7 +1315,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ブリットルパウダー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Britlle Powder</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1535,7 +1535,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ポイズンジェル</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Poison Jel</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1546,7 +1546,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ウィークジェル</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Weak Jel</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1557,7 +1557,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>パラライズジェル</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Paralysis Jel</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1568,7 +1568,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ポイズンスポア</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Poison Spore</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1579,7 +1579,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ウィークスポア</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Weak Spore</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1590,7 +1590,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>パラライズスポア</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Paralysis Spore</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1601,7 +1601,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>フィアースポア</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Fierce Spore</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1623,7 +1623,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ショックハウリング</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Shock Howling</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1667,7 +1667,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ポイズンスポア</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Poison Spore</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1678,7 +1678,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ストーンスポア</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Stone Spore</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1689,7 +1689,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ブリットルスポア</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Brittle Spore</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1711,7 +1711,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>フレイムブレス</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Flame Breath</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1722,7 +1722,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アースブレス</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Earth Breath</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1733,7 +1733,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ホーリーブレス</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Holy Breath</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1876,7 +1876,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ストーンスモッグ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Stone Smog</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1887,7 +1887,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スキャタースモッグ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Scatter Smog</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1920,7 +1920,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>フレアボール</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Flare Ball</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -1953,7 +1953,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アースダイブ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Earth Dive</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2008,7 +2008,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ポイズンピック</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Poison Prick</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2041,7 +2041,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スタンプレス</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Stampless</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2096,7 +2096,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リミットアブソーブ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Limit Absorber</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2184,7 +2184,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>デストロイボム</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Destruction Bomb</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2206,7 +2206,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>フレアグレネード</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Flare Grenade</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2261,7 +2261,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>プロトンボム</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Proton Bomb</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2272,7 +2272,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>バリオンレーザー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Baryon Laser</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2283,7 +2283,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>バリオンレーザー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Baryon Laser</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2338,7 +2338,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スティングレーザー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Sting Laser</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2371,7 +2371,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>テラーシャウト</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Terro Shout</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2415,7 +2415,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>轟崩襲撃</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Smiting Fall</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2426,7 +2426,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>魔神剣・王牙</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Sovereign Demon Fang</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2448,7 +2448,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>魔王絶葬陣</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Demon King Rupture</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2492,7 +2492,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>オクトストローク</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Octostroke</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2503,7 +2503,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アブラプトエンド</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Abrupt End</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2514,7 +2514,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アブラプトエンド</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Abrupt End</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2536,7 +2536,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>冥光襲烈閃</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Chiaroscuro Wave</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2547,7 +2547,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>冥光襲烈陣</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Chiaroscuro Union</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2569,7 +2569,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>瞬迅月華衝</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Blinking Lunar Tempest</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2580,7 +2580,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>紅蓮襲爪刃</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Hell Pyre Fang</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2591,7 +2591,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>紅蓮瞬迅衝</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Blinking Hell Pyre</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2602,7 +2602,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>魔王界滅刃</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Demon Worldslayer</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2635,7 +2635,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>シャドーネイル</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Shadow Nails</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2646,7 +2646,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スキャッター</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Scatter</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2690,7 +2690,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ベノムガッシュ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Venom Gouge</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2756,7 +2756,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アースウェイブ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Earth Wave</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2778,7 +2778,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アースウォール</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Earth Wall</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2855,7 +2855,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スクリューハンマー</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Screw Hammer</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2866,7 +2866,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>フレアボム</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Flare Bomb</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2877,7 +2877,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>マーシレスハント</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Merciless Hunt</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2888,7 +2888,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>瞬迅槍</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Sonic Spear</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2899,7 +2899,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>光波刃</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Platinum Edge</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2910,7 +2910,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>牙突衝</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Fang Rush</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2921,7 +2921,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>空襲刃</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Diving Dragon</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2932,7 +2932,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>聖煌輪</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Twinkling Halo</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2943,7 +2943,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>牙突飛燕衝</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Force Fang</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2954,7 +2954,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>光波連刃</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Platinum Hail</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2965,7 +2965,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>空襲閃光翔</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Dragon Force</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2976,7 +2976,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>守護方陣</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Guardian Field</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2987,7 +2987,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>崩龍斬光刃</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Dragon Shine</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -2998,7 +2998,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>天翔光波刃</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Heavenly Platinum Edge</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3009,7 +3009,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>魔神剣</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Demon Fang</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3020,7 +3020,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>瞬迅衝</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Sonic Shock</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3031,7 +3031,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>崩襲剣</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Demolishing Thrust</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3042,7 +3042,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>真空破斬</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Void Tempest</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3053,7 +3053,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>爆炎剣</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Hell Sword</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3064,7 +3064,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>裂空斬</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Tempest Strike</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3075,7 +3075,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>轟衝破斬</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Fissure Sweep</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3086,7 +3086,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>鳳凰天駆</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Rising Phoenix</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3097,7 +3097,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>紅蓮剣</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Hell Pyre</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3108,7 +3108,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>魔王炎撃破</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Infernal Torrent</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3119,7 +3119,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>烈火爆炎走</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Pyro Blitz</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3130,7 +3130,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>熱波旋風陣</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Searing Gale</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3141,7 +3141,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>鳳凰天翔駆</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Razing Phoenix</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -3152,7 +3152,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>魔王爆炎槍</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Infernal Spear</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
