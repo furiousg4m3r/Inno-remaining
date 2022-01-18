@@ -1,7 +1,7 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000000</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -12,7 +12,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">49</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000031</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -23,7 +23,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">98</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000062</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -34,7 +34,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">147</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000093</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -45,7 +45,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">196</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000C4</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -56,7 +56,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">245</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000F5</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -67,7 +67,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">294</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000126</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -78,40 +78,40 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">343</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000157</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>彼との絆は確かにある</JapaneseText>
-  <EnglishText/>
+  <EnglishText>You and me have a real bond!</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">392</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000188</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>信頼できる仲間だよ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>You're a friend I can really trust.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">441</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001B9</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>彼と出会えてよかったよ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>I'm glad I met you.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">490</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001EA</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -122,7 +122,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">539</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000021B</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -133,7 +133,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">588</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000024C</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -144,7 +144,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">637</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000027D</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -155,7 +155,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">686</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002AE</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -166,7 +166,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">735</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002DF</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -177,7 +177,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">784</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000310</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -188,7 +188,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">833</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000341</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -199,7 +199,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">882</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000372</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -210,7 +210,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">931</MemoryOffset>
+   <MemoryOffset Module="Main">0x000003A3</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -221,7 +221,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">980</MemoryOffset>
+   <MemoryOffset Module="Main">0x000003D4</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -232,7 +232,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1029</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000405</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -243,7 +243,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1078</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000436</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -254,7 +254,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1127</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000467</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -265,7 +265,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1176</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000498</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -276,7 +276,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1225</MemoryOffset>
+   <MemoryOffset Module="Main">0x000004C9</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -287,7 +287,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1274</MemoryOffset>
+   <MemoryOffset Module="Main">0x000004FA</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -298,7 +298,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1323</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000052B</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -309,7 +309,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1372</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000055C</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -320,7 +320,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1421</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000058D</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -331,7 +331,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1470</MemoryOffset>
+   <MemoryOffset Module="Main">0x000005BE</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -342,7 +342,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1519</MemoryOffset>
+   <MemoryOffset Module="Main">0x000005EF</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -353,7 +353,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1568</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000620</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -364,7 +364,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1617</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000651</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -375,7 +375,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1666</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000682</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -386,7 +386,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1715</MemoryOffset>
+   <MemoryOffset Module="Main">0x000006B3</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -397,7 +397,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1764</MemoryOffset>
+   <MemoryOffset Module="Main">0x000006E4</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -408,7 +408,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1813</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000715</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -419,7 +419,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1862</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000746</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -430,7 +430,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1911</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000777</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -441,7 +441,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1960</MemoryOffset>
+   <MemoryOffset Module="Main">0x000007A8</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -452,7 +452,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2009</MemoryOffset>
+   <MemoryOffset Module="Main">0x000007D9</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -463,7 +463,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2058</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000080A</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -474,7 +474,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2107</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000083B</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -485,7 +485,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2156</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000086C</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -496,7 +496,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2205</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000089D</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -507,7 +507,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2254</MemoryOffset>
+   <MemoryOffset Module="Main">0x000008CE</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -518,7 +518,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2303</MemoryOffset>
+   <MemoryOffset Module="Main">0x000008FF</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -529,7 +529,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2352</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000930</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -540,7 +540,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2401</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000961</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -551,7 +551,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2450</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000992</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -562,7 +562,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2499</MemoryOffset>
+   <MemoryOffset Module="Main">0x000009C3</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -573,7 +573,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2548</MemoryOffset>
+   <MemoryOffset Module="Main">0x000009F4</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -584,7 +584,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2597</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000A25</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -595,7 +595,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2646</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000A56</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -606,7 +606,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2695</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000A87</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -617,7 +617,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2744</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000AB8</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -628,7 +628,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2793</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000AE9</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -639,7 +639,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2842</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000B1A</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -650,7 +650,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2891</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000B4B</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -661,7 +661,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2940</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000B7C</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -672,7 +672,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">2989</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000BAD</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -683,7 +683,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3038</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000BDE</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -694,7 +694,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3087</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000C0F</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -705,7 +705,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3136</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000C40</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -716,7 +716,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3185</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000C71</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -727,7 +727,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3234</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000CA2</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -738,7 +738,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3283</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000CD3</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -749,7 +749,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3332</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000D04</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -760,7 +760,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3381</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000D35</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -771,7 +771,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3430</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000D66</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -782,7 +782,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3479</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000D97</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -793,7 +793,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3528</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000DC8</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -804,7 +804,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3577</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000DF9</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -815,7 +815,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3626</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000E2A</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -826,7 +826,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3675</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000E5B</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -837,7 +837,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3724</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000E8C</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -848,7 +848,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3773</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000EBD</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -859,7 +859,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3822</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000EEE</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -870,7 +870,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">3871</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000F1F</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
