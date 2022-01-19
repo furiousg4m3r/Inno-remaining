@@ -7,7 +7,8 @@
   <MipsPointers/>
   <JapaneseText>&lt;Variable:140>このチュートリアルは
 操作モードが&lt;Color:140>セミオート&lt;Color:40>のものです</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Note: The following tutorial is for
+&lt;Color:140>Semi-Auto&lt;Color:40> control mode.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -19,7 +20,8 @@
   <MipsPointers/>
   <JapaneseText>
 　　　　　　　【&lt;Color:140>&lt;Variable:140>移動&lt;Color:40>&lt;Variable:240>】　　　　　　　</JapaneseText>
-  <EnglishText/>
+  <EnglishText>
+　　　　　　　[&lt;Color:140>Movement&lt;Color:40>]　　　　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -31,7 +33,8 @@
   <MipsPointers/>
   <JapaneseText>&lt;Icon:D06>&lt;Variable:140>でキャラクターを移動させましょう
 押し続けると&lt;Variable:240>、&lt;Variable:140>その方向へ移動します</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Hold &lt;Variable:140>&lt;Icon:D06>&lt;Variable:240> in a given direction to move
+the character you're controlling.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -44,7 +47,8 @@
   <JapaneseText>&lt;Control:240>&lt;Variable:140>を押しながら&lt;Icon:C06>で
 キャラクターをジャンプさせましょう
 移動中に行うとその方向へ跳びます</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Press &lt;Control:240> while pressing &lt;Variable:140>&lt;Icon:C06>&lt;Variable:240> to jump.
+If you're moving, you'll jump in that direction.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
