@@ -1,0 +1,422 @@
+﻿<ElfText>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Variable:140>このチュートリアルは
+操作モードが&lt;Color:140>セミオート&lt;Color:40>のものです</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x0000010A</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>
+　　　　　　　【&lt;Color:140>&lt;Variable:140>移動&lt;Color:40>&lt;Variable:240>】　　　　　　　</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000210</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Icon:D06>&lt;Variable:140>でキャラクターを移動させましょう
+押し続けると&lt;Variable:240>、&lt;Variable:140>その方向へ移動します</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000316</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Control:240>&lt;Variable:140>を押しながら&lt;Icon:C06>で
+キャラクターをジャンプさせましょう
+移動中に行うとその方向へ跳びます</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x0000041C</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>
+&lt;Variable:240>（&lt;Icon:D06>&lt;Variable:140>で前後に移動
+&lt;Variable:240>　&lt;Control:240>＋&lt;Icon:C06>&lt;Variable:140>でジャンプ&lt;Variable:240>）</JapaneseText>
+  <EnglishText>&lt;Color:340>Try it for yourself!&lt;Color:40>
+- Use &lt;Icon:D06> to move around.
+- Press &lt;Control:240>＋&lt;Icon:C06> to jump.</EnglishText>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000522</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Icon:406>&lt;Variable:140>でキャラクターを移動させましょう
+&lt;Icon:406>を倒した方向へ&lt;Variable:240>、&lt;Variable:140>自由に進めます</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000628</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+&lt;Variable:240>（&lt;Icon:406>&lt;Variable:140>で自由に移動&lt;Variable:240>）</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x0000072E</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&#xd;
+　　　　【&lt;Color:140>&lt;Variable:140>ターゲットの変更&lt;Color:40>&lt;Variable:240>】　　　　</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000834</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Variable:140>敵が複数いる場合&#xd;
+&lt;Control:540>で最も近くの敵に&#xd;
+ターゲットを変更します</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x0000093A</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Variable:140>また&lt;Control:540>を押しながら&#xd;
+&lt;Icon:D06>で自由にターゲットを選択できます</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000A40</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+&lt;Variable:240>（&lt;Control:540>&lt;Variable:140>でターゲット変更&lt;Variable:240>）</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000B46</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&#xd;
+　　　　　　【&lt;Color:140>&lt;Variable:140>通常攻撃&lt;Color:40>&lt;Variable:240>】　　　　　　</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000C4C</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Control:40>&lt;Variable:140>で敵を攻撃しましょう&#xd;
+&lt;Icon:E06>&lt;Variable:240>＋&lt;Control:40>&lt;Variable:140>で&lt;Variable:240>、&lt;Variable:140>攻撃が変化します&#xd;
+続けて押す事で&lt;Variable:240>、&lt;Variable:140>連続攻撃になります</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000D52</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+&lt;Variable:240>（&lt;Control:40>&lt;Variable:140>で攻撃&lt;Variable:240>）</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000E58</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Icon:406>&lt;Variable:140>での移動中にも&lt;Control:40>で攻撃ができます&#xd;
+この攻撃を敵に当てると&lt;Variable:240>、&lt;Variable:140>自動的に&#xd;
+ターゲットがその敵に切り替わります</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000F5E</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+&lt;Variable:240>（&lt;Icon:406>&lt;Variable:140>の移動中に&lt;Control:40>で攻撃&lt;Variable:240>）</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00001064</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>
+　　　　　　　【&lt;Color:140>&lt;Variable:140>術技&lt;Color:40>&lt;Variable:240>】　　　　　　　</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x0000116A</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Control:140>&lt;Variable:140>ボタンで敵を攻撃しましょう&#xd;
+術技攻撃を行えます&#xd;
+攻撃の際&lt;Variable:240>、&lt;Variable:140>術技毎のＴＰを消費します</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00001270</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Variable:140>技は通常攻撃&lt;Control:40>の後に&#xd;
+続けて入力すると&lt;Variable:240>、&lt;Variable:140>連携できます</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00001376</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+&lt;Variable:240>（&lt;Control:140>&lt;Variable:140>で術技攻撃&#xd;
+&lt;Variable:240>　&lt;Variable:140>通常攻撃&lt;Control:40>の後に連携可能&lt;Variable:240>）</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x0000147C</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&#xd;
+　　　　　　　【&lt;Color:140>&lt;Variable:140>ガード&lt;Color:40>&lt;Variable:240>】　　　　　　　</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00001582</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Control:240>&lt;Variable:140>で敵の攻撃を防ぎましょう&#xd;
+押し続ける事で&lt;Variable:240>、&lt;Variable:140>ガードし続けます</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00001688</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Variable:140>ガード中に&lt;Icon:A06>で&lt;Variable:240>、&#xd;
+&lt;Variable:140>マジックガードもできます</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x0000178E</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Variable:140>マジックガードは&lt;Variable:240>、&lt;Variable:140>通常のガードよりも&#xd;
+術のダメージを軽減できます</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00001894</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+&lt;Variable:240>（&lt;Control:240>&lt;Variable:140>でガード&#xd;
+&lt;Variable:240>　&lt;Control:240>＋&lt;Icon:A06>&lt;Variable:140>でマジックガード&lt;Variable:240>）</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x0000199A</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Variable:140>ガード中に&lt;Icon:D06>を素早く２回入力し&#xd;
+ステップ移動させましょう&#xd;
+素早く一定距離を移動できます</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00001AA0</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+&lt;Variable:240>（&lt;Variable:140>ガード中に&lt;Icon:D06>を素早く２回でステップ&lt;Variable:240>）</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00001BA6</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&#xd;
+　　　　【&lt;Color:140>&lt;Variable:140>オーバーリミッツ&lt;Color:40>&lt;Variable:240>】　　　　</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00001CAC</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Variable:140>攻撃を当てたり&lt;Variable:240>、&lt;Variable:140>受けたりすると&#xd;
+ＯＶＬゲージが溜まります</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00001DB2</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Variable:140>ゲージが最大の状態の時に&#xd;
+&lt;Control:440>でオーバーリミッツが&#xd;
+発動できます</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00001EB8</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Variable:140>発動中はゲージがなくなるまで&#xd;
+さまざまな特殊効果が発生します</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00001FBE</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Variable:140>ただし&lt;Variable:240>、&lt;Variable:140>敵の攻撃を受けると&#xd;
+ゲージが早く減少するので&#xd;
+注意して下さい</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x000020C4</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+&lt;Variable:240>（&lt;Control:440>&lt;Variable:140>でオーバーリミッツ&lt;Variable:240>）</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x000021CA</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Variable:140>戦闘チュートリアルは以上です</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+</ElfText>
