@@ -21,7 +21,7 @@
   <JapaneseText>
 　　　　　　　【&lt;Color:140>&lt;Variable:140>移動&lt;Color:40>&lt;Variable:240>】　　　　　　　</JapaneseText>
   <EnglishText>
-　　　　　　　[&lt;Color:140>Movement&lt;Color:40>]　　　　　　　</EnglishText>
+　　　　　　　[ &lt;Color:140>Movement&lt;Color:40> ]　　　　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -102,7 +102,7 @@ in whichever direction &lt;Icon:406> is pushed.</EnglishText>
   <JapaneseText>
 　　　　【&lt;Color:140>&lt;Variable:140>ターゲットの変更&lt;Color:40>&lt;Variable:240>】　　　　</JapaneseText>
   <EnglishText>
-　　　　[&lt;Color:140>Switching Targets&lt;Color:40>]　　　　</EnglishText>
+　　　　- &lt;Color:140>Switching Targets&lt;Color:40> -　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -156,7 +156,7 @@ to switch freely between target.</EnglishText>
   <JapaneseText>
 　　　　　　【&lt;Color:140>&lt;Variable:140>通常攻撃&lt;Color:40>&lt;Variable:240>】　　　　　　</JapaneseText>
   <EnglishText>
-　　　　　　[&lt;Color:140>Regular Attacks&lt;Color:40>]　　　　　　</EnglishText>
+　　　　　　[ &lt;Color:140>Regular Attacks&lt;Color:40> ]　　　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -226,7 +226,7 @@ your target will automatically switch to that opponent.</EnglishText>
   <JapaneseText>
 　　　　　　　【&lt;Color:140>&lt;Variable:140>術技&lt;Color:40>&lt;Variable:240>】　　　　　　　</JapaneseText>
   <EnglishText>
-　　　　　　　[&lt;Color:140>Artes&lt;Color:40>]　　　　　　　</EnglishText>
+　　　　　　　[ &lt;Color:140>Artes&lt;Color:40> ]　　　　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -281,7 +281,7 @@ then press &lt;Control:140> to perform an arte.</EnglishText>
   <JapaneseText>
 　　　　　　　【&lt;Color:140>&lt;Variable:140>ガード&lt;Color:40>&lt;Variable:240>】　　　　　　　</JapaneseText>
   <EnglishText>
-　　　　　　　[&lt;Color:140>Blocking&lt;Color:40>]　　　　　　　</EnglishText>
+　　　　　　　[ &lt;Color:140>Blocking&lt;Color:40> ]　　　　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -376,7 +376,7 @@ twice quickly to quick-step.</EnglishText>
   <JapaneseText>
 　　　　【&lt;Color:140>&lt;Variable:140>オーバーリミッツ&lt;Color:40>&lt;Variable:240>】　　　　</JapaneseText>
   <EnglishText>
-　　　　[&lt;Color:140>Over Limit&lt;Color:40>]　　　　</EnglishText>
+　　　　[ &lt;Color:140>Over Limit&lt;Color:40> ]　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
