@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Control:140>でキャラクター特有の</JapaneseText>
-  <EnglishText>You can press {unknown41:01} to perform Physical artes</EnglishText>
+  <EnglishText>You can press &lt;Control:140> to perform Physical artes</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>術技&lt;Color:440>は&lt;Control:340>で開くメニューの</JapaneseText>
-  <EnglishText>These artes can be assigned to {button:0806}{button:0C06}{button:0D06}{button:0A06}</EnglishText>
+  <EnglishText>These artes can be assigned to &lt;Icon:F06>&lt;Icon:C06>&lt;Icon:A06>&lt;Icon:D06></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>設定することが可能で</JapaneseText>
-  <EnglishText>menu, which can be opened by pressing {unknown41:03}.</EnglishText>
+  <EnglishText>menu, which can be opened by pressing &lt;Control:340>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>術技&lt;Color:440>を出すことができます。</JapaneseText>
-  <EnglishText>button along with {unknown41:01}, you can quickly
+  <EnglishText>button along with &lt;Control:140>, you can quickly
 perform a range of powerful artes.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
