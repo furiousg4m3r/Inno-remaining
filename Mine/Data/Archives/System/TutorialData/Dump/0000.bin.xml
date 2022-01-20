@@ -33,7 +33,7 @@
   <MipsPointers/>
   <JapaneseText>&lt;Icon:D06>&lt;Variable:140>でキャラクターを移動させましょう
 押し続けると&lt;Variable:240>、&lt;Variable:140>その方向へ移動します</JapaneseText>
-  <EnglishText>Hold &lt;Variable:140>&lt;Icon:D06>&lt;Variable:240> in a given direction to move
+  <EnglishText>Hold &lt;Icon:D06> in a given direction to move
 the character you're controlling.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
@@ -47,7 +47,7 @@ the character you're controlling.</EnglishText>
   <JapaneseText>&lt;Control:240>&lt;Variable:140>を押しながら&lt;Icon:C06>で
 キャラクターをジャンプさせましょう
 移動中に行うとその方向へ跳びます</JapaneseText>
-  <EnglishText>Press &lt;Control:240> while pressing &lt;Variable:140>&lt;Icon:C06>&lt;Variable:240> to jump.
+  <EnglishText>Press &lt;Control:240> while pressing &lt;Icon:C06> to jump.
 If you're moving, you'll jump in that direction.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
