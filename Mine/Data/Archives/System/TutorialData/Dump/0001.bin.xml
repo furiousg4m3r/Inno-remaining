@@ -1,89 +1,97 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&#xd;
+  <JapaneseText>
 　　　　【&lt;Color:140>&lt;Variable:140>ガードカウンター&lt;Color:40>&lt;Variable:240>】　　　　</JapaneseText>
-  <EnglishText/>
+  <EnglishText>
+　　　　[&lt;Color:140>Guard Counter&lt;Color:40>]　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">266</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000010A</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>敵は一定以上の攻撃を受けると&#xd;
+  <JapaneseText>&lt;Variable:140>敵は一定以上の攻撃を受けると
 赤く光り&lt;Variable:240>、&lt;Variable:140>怒り攻撃を行います</JapaneseText>
-  <EnglishText/>
+  <EnglishText>After taking a certain number of hits, enemies will 
+glow red, and then lash out with rage.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">528</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000210</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>タイミングよく&lt;Control:240>を押し&#xd;
-ガードカウンターで&#xd;
+  <JapaneseText>&lt;Variable:140>タイミングよく&lt;Control:240>を押し
+ガードカウンターで
 敵の怒り攻撃を防ぎましょう</JapaneseText>
-  <EnglishText/>
+  <EnglishText>By pressing &lt;Control:240> at just the right moment, 
+you can block the enraged attack, and perform 
+a Guard Counter.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">790</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000316</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>ガードカウンターは&#xd;
-攻撃が当たるギリギリのタイミングで&#xd;
+  <JapaneseText>&lt;Variable:140>ガードカウンターは
+攻撃が当たるギリギリのタイミングで
 &lt;Control:240>を押すと発生します</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Control:240> must be pressed at the very last moment 
+in order for the counter-attack to be successful.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1052</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000041C</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>ガードカウンターを行うことで&#xd;
-途切れることなく&#xd;
+  <JapaneseText>&lt;Variable:140>ガードカウンターを行うことで
+途切れることなく
 再び連携を続けることができます</JapaneseText>
-  <EnglishText/>
+  <EnglishText>A successful Guard Counter will allow you to carry on your 
+current combo onslaught uninterrupted.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1314</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000522</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
-&lt;Variable:240>（&lt;Variable:140>敵の怒り攻撃をタイミングよく&#xd;
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>
+&lt;Variable:240>（&lt;Variable:140>敵の怒り攻撃をタイミングよく
 &lt;Variable:240>　&lt;Variable:140>ガード&lt;Control:240>でガードカウンター&lt;Variable:240>）</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Try it for yourself!&lt;Color:40>
+- Press &lt;Control:240> with the right timing to counter 
+their rage attack.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1576</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000628</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>ガードカウンターの&#xd;
+  <JapaneseText>&lt;Variable:140>ガードカウンターの
 チュートリアルは以上です</JapaneseText>
-  <EnglishText/>
+  <EnglishText>This concludes the Guard Counter tutorial.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
