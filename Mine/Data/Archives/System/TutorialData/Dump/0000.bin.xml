@@ -75,7 +75,8 @@ If you're moving, you'll jump in that direction.</EnglishText>
   <MipsPointers/>
   <JapaneseText>&lt;Icon:406>&lt;Variable:140>でキャラクターを移動させましょう
 &lt;Icon:406>を倒した方向へ&lt;Variable:240>、&lt;Variable:140>自由に進めます</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Use &lt;Icon:406> to move. You can move freely
+in whichever direction &lt;Icon:406> is pushed.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -85,9 +86,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>
 &lt;Variable:240>（&lt;Icon:406>&lt;Variable:140>で自由に移動&lt;Variable:240>）</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Try it for yourself!&lt;Color:40>
+- Use &lt;Icon:406> to free run.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -97,9 +99,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&#xd;
+  <JapaneseText>
 　　　　【&lt;Color:140>&lt;Variable:140>ターゲットの変更&lt;Color:40>&lt;Variable:240>】　　　　</JapaneseText>
-  <EnglishText/>
+  <EnglishText>
+　　　　[&lt;Color:140>Switching Targets&lt;Color:40>]　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -109,10 +112,12 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>敵が複数いる場合&#xd;
-&lt;Control:540>で最も近くの敵に&#xd;
+  <JapaneseText>&lt;Variable:140>敵が複数いる場合
+&lt;Control:540>で最も近くの敵に
 ターゲットを変更します</JapaneseText>
-  <EnglishText/>
+  <EnglishText>When multiple enemies are present,
+you can press &lt;Control:540> to switch your
+target to the closest enemy.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -122,9 +127,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>また&lt;Control:540>を押しながら&#xd;
+  <JapaneseText>&lt;Variable:140>また&lt;Control:540>を押しながら
 &lt;Icon:D06>で自由にターゲットを選択できます</JapaneseText>
-  <EnglishText/>
+  <EnglishText>You can press &lt;Icon:D06> while holding &lt;Control:540>
+to switch freely between target.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -134,9 +140,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>
 &lt;Variable:240>（&lt;Control:540>&lt;Variable:140>でターゲット変更&lt;Variable:240>）</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Try it for yourself!&lt;Color:40>
+- Press &lt;Control:540> to switch targets.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -146,9 +153,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&#xd;
+  <JapaneseText>
 　　　　　　【&lt;Color:140>&lt;Variable:140>通常攻撃&lt;Color:40>&lt;Variable:240>】　　　　　　</JapaneseText>
-  <EnglishText/>
+  <EnglishText>
+　　　　　　[&lt;Color:140>Regular Attacks&lt;Color:40>]　　　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -158,10 +166,12 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Control:40>&lt;Variable:140>で敵を攻撃しましょう&#xd;
-&lt;Icon:E06>&lt;Variable:240>＋&lt;Control:40>&lt;Variable:140>で&lt;Variable:240>、&lt;Variable:140>攻撃が変化します&#xd;
+  <JapaneseText>&lt;Control:40>&lt;Variable:140>で敵を攻撃しましょう
+&lt;Icon:E06>&lt;Variable:240>＋&lt;Control:40>&lt;Variable:140>で&lt;Variable:240>、&lt;Variable:140>攻撃が変化します
 続けて押す事で&lt;Variable:240>、&lt;Variable:140>連続攻撃になります</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Press &lt;Control:40> to attack an enemy. 
+Different attacks can be performed using &lt;Icon:E06> + &lt;Control:40>.
+Press repeatedly to perform combos.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -171,9 +181,11 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>
 &lt;Variable:240>（&lt;Control:40>&lt;Variable:140>で攻撃&lt;Variable:240>）</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Try it for yourself!&lt;Color:40>
+- Press &lt;Control:40> to attack.
+- Press &lt;Icon:E06> + &lt;Control:40> to attack.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -183,10 +195,12 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Icon:406>&lt;Variable:140>での移動中にも&lt;Control:40>で攻撃ができます&#xd;
-この攻撃を敵に当てると&lt;Variable:240>、&lt;Variable:140>自動的に&#xd;
+  <JapaneseText>&lt;Icon:406>&lt;Variable:140>での移動中にも&lt;Control:40>で攻撃ができます
+この攻撃を敵に当てると&lt;Variable:240>、&lt;Variable:140>自動的に
 ターゲットがその敵に切り替わります</JapaneseText>
-  <EnglishText/>
+  <EnglishText>While using &lt;Icon:406> to run around, you can press &lt;Control:40> to
+perform a free-run attack. If the attack hits an enemy, 
+your target will automatically switch to that opponent.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -196,9 +210,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>
 &lt;Variable:240>（&lt;Icon:406>&lt;Variable:140>の移動中に&lt;Control:40>で攻撃&lt;Variable:240>）</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Try it for yourself!&lt;Color:40>
+- While moving with &lt;Icon:406>, press &lt;Control:40> to perform a free-run attack.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -210,7 +225,8 @@ If you're moving, you'll jump in that direction.</EnglishText>
   <MipsPointers/>
   <JapaneseText>
 　　　　　　　【&lt;Color:140>&lt;Variable:140>術技&lt;Color:40>&lt;Variable:240>】　　　　　　　</JapaneseText>
-  <EnglishText/>
+  <EnglishText>
+　　　　　　　[&lt;Color:140>Artes&lt;Color:40>]　　　　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -220,10 +236,12 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Control:140>&lt;Variable:140>ボタンで敵を攻撃しましょう&#xd;
-術技攻撃を行えます&#xd;
+  <JapaneseText>&lt;Control:140>&lt;Variable:140>ボタンで敵を攻撃しましょう
+術技攻撃を行えます
 攻撃の際&lt;Variable:240>、&lt;Variable:140>術技毎のＴＰを消費します</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Using &lt;Control:140> to attack an enemy will cause a special 
+attack known as an arte to be performed.
+Performing an arte uses up TP.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -233,9 +251,9 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>技は通常攻撃&lt;Control:40>の後に&#xd;
+  <JapaneseText>&lt;Variable:140>技は通常攻撃&lt;Control:40>の後に
 続けて入力すると&lt;Variable:240>、&lt;Variable:140>連携できます</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Artes can be combined by using them after regular attacks (&lt;Control:40>).</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -245,10 +263,12 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
-&lt;Variable:240>（&lt;Control:140>&lt;Variable:140>で術技攻撃&#xd;
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>
+&lt;Variable:240>（&lt;Control:140>&lt;Variable:140>で術技攻撃
 &lt;Variable:240>　&lt;Variable:140>通常攻撃&lt;Control:40>の後に連携可能&lt;Variable:240>）</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Try it for yourself!&lt;Color:40>
+- Press &lt;Control:40> to perform a regular attack 
+then press &lt;Control:140> to perform an arte.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -258,9 +278,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&#xd;
+  <JapaneseText>
 　　　　　　　【&lt;Color:140>&lt;Variable:140>ガード&lt;Color:40>&lt;Variable:240>】　　　　　　　</JapaneseText>
-  <EnglishText/>
+  <EnglishText>
+　　　　　　　[&lt;Color:140>Blocking&lt;Color:40>]　　　　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -270,9 +291,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Control:240>&lt;Variable:140>で敵の攻撃を防ぎましょう&#xd;
+  <JapaneseText>&lt;Control:240>&lt;Variable:140>で敵の攻撃を防ぎましょう
 押し続ける事で&lt;Variable:240>、&lt;Variable:140>ガードし続けます</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Press &lt;Control:240> to block an incoming attack.
+Hold it down to guard continuously.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -282,9 +304,9 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>ガード中に&lt;Icon:A06>で&lt;Variable:240>、&#xd;
+  <JapaneseText>&lt;Variable:140>ガード中に&lt;Icon:A06>で&lt;Variable:240>、
 &lt;Variable:140>マジックガードもできます</JapaneseText>
-  <EnglishText/>
+  <EnglishText>While guarding, press &lt;Icon:A06> to perform a magic guard.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -294,9 +316,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>マジックガードは&lt;Variable:240>、&lt;Variable:140>通常のガードよりも&#xd;
+  <JapaneseText>&lt;Variable:140>マジックガードは&lt;Variable:240>、&lt;Variable:140>通常のガードよりも
 術のダメージを軽減できます</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Magic guard reduces the damage taken by A. ATK 
+by a greater amount than a normal guard.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -306,10 +329,12 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
-&lt;Variable:240>（&lt;Control:240>&lt;Variable:140>でガード&#xd;
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>
+&lt;Variable:240>（&lt;Control:240>&lt;Variable:140>でガード
 &lt;Variable:240>　&lt;Control:240>＋&lt;Icon:A06>&lt;Variable:140>でマジックガード&lt;Variable:240>）</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Try it for yourself!&lt;Color:40>
+- Press &lt;Control:240> to block.
+- Press &lt;Control:240> + &lt;Icon:A06> to perform a magic guard.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -319,10 +344,12 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>ガード中に&lt;Icon:D06>を素早く２回入力し&#xd;
-ステップ移動させましょう&#xd;
+  <JapaneseText>&lt;Variable:140>ガード中に&lt;Icon:D06>を素早く２回入力し
+ステップ移動させましょう
 素早く一定距離を移動できます</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Press &lt;Icon:D06> twice quickly while guarding
+(&lt;Control:240>) to perform a quick-step, allowing
+you to cover ground fast.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -332,9 +359,11 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>
 &lt;Variable:240>（&lt;Variable:140>ガード中に&lt;Icon:D06>を素早く２回でステップ&lt;Variable:240>）</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Try it for yourself!&lt;Color:40>
+- Hold &lt;Control:240> to block, then press &lt;Icon:D06>
+twice quickly to quick-step.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -344,9 +373,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&#xd;
+  <JapaneseText>
 　　　　【&lt;Color:140>&lt;Variable:140>オーバーリミッツ&lt;Color:40>&lt;Variable:240>】　　　　</JapaneseText>
-  <EnglishText/>
+  <EnglishText>
+　　　　[&lt;Color:140>Over Limit&lt;Color:40>]　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -356,9 +386,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>攻撃を当てたり&lt;Variable:240>、&lt;Variable:140>受けたりすると&#xd;
+  <JapaneseText>&lt;Variable:140>攻撃を当てたり&lt;Variable:240>、&lt;Variable:140>受けたりすると
 ＯＶＬゲージが溜まります</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Attacking and being attacked causes the OVL gauge
+to gradually fill.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -368,10 +399,11 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>ゲージが最大の状態の時に&#xd;
-&lt;Control:440>でオーバーリミッツが&#xd;
+  <JapaneseText>&lt;Variable:140>ゲージが最大の状態の時に
+&lt;Control:440>でオーバーリミッツが
 発動できます</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Once it has filled, you can press &lt;Control:440> to activate 
+your Over Limit.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -381,9 +413,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>発動中はゲージがなくなるまで&#xd;
+  <JapaneseText>&lt;Variable:140>発動中はゲージがなくなるまで
 さまざまな特殊効果が発生します</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Special abilities will be granted while the gauge
+is active until the gauge runs out.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -393,10 +426,11 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>ただし&lt;Variable:240>、&lt;Variable:140>敵の攻撃を受けると&#xd;
-ゲージが早く減少するので&#xd;
+  <JapaneseText>&lt;Variable:140>ただし&lt;Variable:240>、&lt;Variable:140>敵の攻撃を受けると
+ゲージが早く減少するので
 注意して下さい</JapaneseText>
-  <EnglishText/>
+  <EnglishText>However, please keep in mind that the gauge will 
+decrease quickly if you are attacked by an enemy!</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -406,9 +440,10 @@ If you're moving, you'll jump in that direction.</EnglishText>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>
 &lt;Variable:240>（&lt;Control:440>&lt;Variable:140>でオーバーリミッツ&lt;Variable:240>）</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Try it for yourself!&lt;Color:40>
+- Press &lt;Control:440> to enter Over Limit.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -419,7 +454,7 @@ If you're moving, you'll jump in that direction.</EnglishText>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Variable:140>戦闘チュートリアルは以上です</JapaneseText>
-  <EnglishText/>
+  <EnglishText>This concludes the battle basics tutorial.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

@@ -1,85 +1,90 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&#xd;
+  <JapaneseText>
 　　　　　　【&lt;Color:140>&lt;Variable:140>秘奥義&lt;Color:40>&lt;Variable:240>】　　　　　　</JapaneseText>
-  <EnglishText/>
+  <EnglishText>
+　　　　　　[&lt;Color:140>Mystic Artes&lt;Color:40>]　　　　　　</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">266</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000010A</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>秘奥義はオーバーリミッツ中に&lt;Control:440>で&#xd;
-発生する攻撃を&#xd;
+  <JapaneseText>&lt;Variable:140>秘奥義はオーバーリミッツ中に&lt;Control:440>で
+発生する攻撃を
 当てることで発動します</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Mystic Artes can be performed by holding down &lt;Control:440>
+when an attack hits an enemy during Over Limit.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">528</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000210</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>秘奥義は通常攻撃&lt;Control:40>や&lt;Variable:240>、&lt;Variable:140>術技&lt;Control:140>から&#xd;
+  <JapaneseText>&lt;Variable:140>秘奥義は通常攻撃&lt;Control:40>や&lt;Variable:240>、&lt;Variable:140>術技&lt;Control:140>から
 連携して出すことができます</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Mystic Artes can be used in combination with &lt;Control:40> normal 
+attacks and &lt;Control:140> artes.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">790</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000316</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>また秘奥義を発動すると&#xd;
+  <JapaneseText>&lt;Variable:140>また秘奥義を発動すると
 レイヴゲージが全て消費されます</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Activating a Mystic Arte will consume the entire Rave gauge.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1052</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000041C</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Variable:140>この消費したゲージの本数に応じて&#xd;
+  <JapaneseText>&lt;Variable:140>この消費したゲージの本数に応じて
 秘奥義の威力が大きく上昇します</JapaneseText>
-  <EnglishText/>
+  <EnglishText>The power of the Mystic Artes will increase greatly according 
+to the number of gauges consumed.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1314</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000522</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>&#xd;
+  <JapaneseText>&lt;Color:340>&lt;Variable:140>練習してみましょう&lt;Color:40>
 &lt;Variable:240>（&lt;Variable:140>オーバーリミッツ中に&lt;Control:440>で秘奥義&lt;Variable:240>）</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Try it for yourself!&lt;Color:40>
+- Press &lt;Control:440> while in Over Limit to activate your Mystic Arte.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1576</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000628</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Variable:140>秘奥義のチュートリアルは以上です</JapaneseText>
-  <EnglishText/>
+  <EnglishText>This concludes the Mystic Artes tutorial.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
