@@ -1,0 +1,112 @@
+﻿<ElfText>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">4</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>リカルドの裏切り１</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">46</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>テノスへ向かうため&lt;Color:240>ガルポスの港&lt;Color:440>へ</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">143</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>やってきたルカたちは、</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">240</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>突然現れた兵士たちに包囲される。</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">337</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>　</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">434</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>兵士ばかりではなく、リカルドの</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">531</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>銃口までもがルカたちに向けられる</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">628</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>リカルドは、軍に内通していたのだ</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">725</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>new line</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">822</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>new line</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+</ElfText>
