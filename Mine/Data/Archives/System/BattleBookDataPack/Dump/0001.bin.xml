@@ -98,15 +98,4 @@
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
- <Entry>
-  <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000336</MemoryOffset>
-  </MemoryOffsets>
-  <LiteralPointers/>
-  <MipsPointers/>
-  <JapaneseText>new line</JapaneseText>
-  <EnglishText> </EnglishText>
-  <Notes/>
-  <EditFlag>0</EditFlag>
- </Entry>
 </ElfText>

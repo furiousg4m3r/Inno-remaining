@@ -72,11 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>バックステップが行えます。</JapaneseText>
-<<<<<<< Updated upstream
   <EnglishText/>
-=======
-  <EnglishText>to take a step back and put some distance.</EnglishText>
->>>>>>> Stashed changes
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -86,13 +82,8 @@
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-<<<<<<< Updated upstream
   <JapaneseText>　</JapaneseText>
   <EnglishText/>
-=======
-  <JapaneseText/>
-  <EnglishText>Careful timing of such quick-steps  can</EnglishText>
->>>>>>> Stashed changes
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -103,11 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>どちらも移動中は無敵になり</JapaneseText>
-<<<<<<< Updated upstream
   <EnglishText/>
-=======
-  <EnglishText>help you slip through your enemies and</EnglishText>
->>>>>>> Stashed changes
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

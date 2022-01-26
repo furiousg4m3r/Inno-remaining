@@ -1,111 +1,89 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>通常攻撃</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Regular Attacks</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">48</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000030</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Control:40>で通常攻撃ができます。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Press &lt;Control:40> to perform a regular attack.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">179</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000B3</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Icon:F06>を&lt;Icon:C06>&lt;Icon:A06>に入力しながら</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Press &lt;Control:40> while pressing &lt;Icon:C06> or &lt;Icon:A06></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">310</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000136</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Control:40>を押すと更に色々な</JapaneseText>
-  <EnglishText/>
+  <EnglishText>to perform a range of other regular attacks.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">441</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001B9</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>攻撃を出すことができます。</JapaneseText>
-  <EnglishText/>
+  <EnglishText> </EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">572</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000023C</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>　</JapaneseText>
-  <EnglishText/>
+  <JapaneseText/>
+  <EnglishText>When the control mode is set to</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">703</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002BF</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>操作モードがセミオートの時は</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Semi-Auto, the distance between you and</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">834</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000342</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>自動で敵に近づいて攻撃します。</JapaneseText>
-  <EnglishText/>
-  <Notes/>
-  <EditFlag>0</EditFlag>
- </Entry>
- <Entry>
-  <MemoryOffsets>
-   <MemoryOffset Module="Main">725</MemoryOffset>
-  </MemoryOffsets>
-  <LiteralPointers/>
-  <MipsPointers/>
-  <JapaneseText>new line</JapaneseText>
-  <EnglishText/>
-  <Notes/>
-  <EditFlag>0</EditFlag>
- </Entry>
- <Entry>
-  <MemoryOffsets>
-   <MemoryOffset Module="Main">822</MemoryOffset>
-  </MemoryOffsets>
-  <LiteralPointers/>
-  <MipsPointers/>
-  <JapaneseText>new line</JapaneseText>
-  <EnglishText/>
+  <EnglishText>your enemy will be adjusted automatically.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
