@@ -1,100 +1,111 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
+   <MemoryOffset Module="Main">4</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>イリアとの出会い２</JapaneseText>
-  <EnglishText>A Meeting with Illia 2</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x0000002E</MemoryOffset>
+   <MemoryOffset Module="Main">46</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>そこへ、&lt;Color:340>教団の大主天マティウス&lt;Color:440>が</JapaneseText>
-  <EnglishText>There the {blue}Church's Great Cielan, Mattheus{white}, </EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x0000008F</MemoryOffset>
+   <MemoryOffset Module="Main">143</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>現れる。マティウスは&lt;Color:340>創世力&lt;Color:440>と</JapaneseText>
-  <EnglishText>appeared. Illia was being chased because</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000000F0</MemoryOffset>
+   <MemoryOffset Module="Main">240</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>呼ばれるものを手に入れるため</JapaneseText>
-  <EnglishText>Mattheus was after something called the</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000151</MemoryOffset>
+   <MemoryOffset Module="Main">337</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>イリアを追って来たという。</JapaneseText>
-  <EnglishText>{blue}Genesis{white}.</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000001B2</MemoryOffset>
+   <MemoryOffset Module="Main">434</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText/>
-  <EnglishText>&lt;space></EnglishText>
+  <JapaneseText>　</JapaneseText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000213</MemoryOffset>
+   <MemoryOffset Module="Main">531</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>しかし、人目を避けるためか</JapaneseText>
-  <EnglishText>But Mattheus walked away once Ruca</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000274</MemoryOffset>
+   <MemoryOffset Module="Main">628</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカが転生者であることを認めると</JapaneseText>
-  <EnglishText>declares himself as a Reincarnator in order to</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000002D5</MemoryOffset>
+   <MemoryOffset Module="Main">725</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>立ち去ってしまうマティウス</JapaneseText>
-  <EnglishText>avoid attracting any further attention.</EnglishText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">822</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>new line</JapaneseText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

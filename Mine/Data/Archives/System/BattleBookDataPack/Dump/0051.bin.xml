@@ -76,4 +76,37 @@
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">834</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>new line</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">965</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>new line</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">1096</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>new line</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
 </ElfText>

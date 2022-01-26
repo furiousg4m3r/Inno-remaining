@@ -1,100 +1,111 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
+   <MemoryOffset Module="Main">4</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>儀式の朝</JapaneseText>
-  <EnglishText>Morning Ceremony</EnglishText>
-  <Notes/>
-  <EditFlag>0</EditFlag>
- </Entry>
- <Entry>
-  <MemoryOffsets>
-   <MemoryOffset Module="Main">0x0000002E</MemoryOffset>
-  </MemoryOffsets>
-  <LiteralPointers/>
-  <MipsPointers/>
-  <JapaneseText>ルカが両親と朝食を取っていると</JapaneseText>
-  <EnglishText>While having breakfast with his parents, Ruca hears</EnglishText>
-  <Notes/>
-  <EditFlag>0</EditFlag>
- </Entry>
- <Entry>
-  <MemoryOffsets>
-   <MemoryOffset Module="Main">0x0000008F</MemoryOffset>
-  </MemoryOffsets>
-  <LiteralPointers/>
-  <MipsPointers/>
-  <JapaneseText>同級生の&lt;Color:340>エディ&lt;Color:440>と&lt;Color:340>ニーノ&lt;Color:440>から</JapaneseText>
-  <EnglishText>his classmates, &lt;Color:340>Eddie&lt;Color:440> and &lt;Color:340>Nino&lt;Color:440>, calling out to him</EnglishText>
-  <Notes/>
-  <EditFlag>0</EditFlag>
- </Entry>
- <Entry>
-  <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000000F0</MemoryOffset>
-  </MemoryOffsets>
-  <LiteralPointers/>
-  <MipsPointers/>
-  <JapaneseText>誘いの声が、かかった。</JapaneseText>
-  <EnglishText>from outside.</EnglishText>
-  <Notes/>
-  <EditFlag>0</EditFlag>
- </Entry>
- <Entry>
-  <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000151</MemoryOffset>
-  </MemoryOffsets>
-  <LiteralPointers/>
-  <MipsPointers/>
-  <JapaneseText/>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000001B2</MemoryOffset>
+   <MemoryOffset Module="Main">46</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>ルカが両親と朝食を取っていると</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">143</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>同級生の&lt;Color:340>エディ&lt;Color:440>と&lt;Color:340>ニーノ&lt;Color:440>から</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">240</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>誘いの声が、かかった。</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">337</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>　</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">434</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>今日は、レグヌムの街から南にある</JapaneseText>
-  <EnglishText>Today, an important ceremony will be held for Ruca </EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000213</MemoryOffset>
+   <MemoryOffset Module="Main">531</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>フルフィの森&lt;Color:440>で</JapaneseText>
-  <EnglishText>in the &lt;Color:240>Fluffy Forest&lt;Color:440> south of the city.</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000274</MemoryOffset>
+   <MemoryOffset Module="Main">628</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカのために大事な儀式が</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000002D5</MemoryOffset>
+   <MemoryOffset Module="Main">725</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>行われるのだ</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">822</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>new line</JapaneseText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

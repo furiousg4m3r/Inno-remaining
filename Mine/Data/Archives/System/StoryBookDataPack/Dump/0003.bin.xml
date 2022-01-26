@@ -1,100 +1,111 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
+   <MemoryOffset Module="Main">4</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>イリアとの出会い１</JapaneseText>
-  <EnglishText>A Meeting with Illia 1</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x0000002E</MemoryOffset>
+   <MemoryOffset Module="Main">46</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>レグヌムに戻ったルカは</JapaneseText>
-  <EnglishText>As Ruca returned to Regnum, he saw a boy</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x0000008F</MemoryOffset>
+   <MemoryOffset Module="Main">143</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>異能者捕縛適応法&lt;Color:440>で</JapaneseText>
-  <EnglishText>being taken away by the &lt;Color:340>Deviant&lt;Color:440></EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000000F0</MemoryOffset>
+   <MemoryOffset Module="Main">240</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>軍に連行される少年を見かけた。</JapaneseText>
-  <EnglishText>&lt;Color:340>Reformation Act&lt;Color:440>. He also met</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000151</MemoryOffset>
+   <MemoryOffset Module="Main">337</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>露店の側で、ルカは教団兵に</JapaneseText>
-  <EnglishText>&lt;Color:340>Illia&lt;Color:440> being chased by the Church beside</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000001B2</MemoryOffset>
+   <MemoryOffset Module="Main">434</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>追われる少女&lt;Color:340>イリア&lt;Color:440>と出会う。</JapaneseText>
-  <EnglishText>the hotdog stall. When Ruca was protecting</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000213</MemoryOffset>
+   <MemoryOffset Module="Main">531</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>教団兵からイリアを守ろうとした</JapaneseText>
-  <EnglishText>Illia from the Church members, a slumbering</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000274</MemoryOffset>
+   <MemoryOffset Module="Main">628</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>そのとき、ルカの眠っていた力</JapaneseText>
-  <EnglishText>power woke up from within him, the &lt;Color:340>power&lt;Color:440>.</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000002D5</MemoryOffset>
+   <MemoryOffset Module="Main">725</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>転生者の力&lt;Color:440>が、目を覚ます</JapaneseText>
-  <EnglishText>&lt;Color:340>of a Reincarnator&lt;Color:440>.</EnglishText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">822</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>new line</JapaneseText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

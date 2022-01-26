@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText/>
-  <EnglishText/>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>操作モードがセミオートの時は</JapaneseText>
-  <EnglishText>In semi-auto, you can jump by</EnglishText>
+  <EnglishText>In semi-auto, you can jump by pressing &lt;Control:240></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Control:240>を押しながら&lt;Icon:C06>で</JapaneseText>
-  <EnglishText>pressing &lt;Control:240> while holding</EnglishText>
+  <EnglishText>while holding down &lt;Icon:C06>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,11 +83,12 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ジャンプすることができます。</JapaneseText>
-  <EnglishText>down &lt;Icon:C06>.</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
-   <MemoryOffsets>
+ <Entry>
+  <MemoryOffsets>
    <MemoryOffset Module="Main">0x000003C5</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
