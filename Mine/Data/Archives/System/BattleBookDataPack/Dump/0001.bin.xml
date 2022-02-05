@@ -1,100 +1,111 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
+   <MemoryOffset Module="Main">4</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>移動２</JapaneseText>
-  <EnglishText>Movement 2</EnglishText>
-  <Notes/>
-  <EditFlag>0</EditFlag>
- </Entry>
- <Entry>
-  <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000030</MemoryOffset>
-  </MemoryOffsets>
-  <LiteralPointers/>
-  <MipsPointers/>
-  <JapaneseText>&lt;Icon:406>で前進や後退の移動だけでなく</JapaneseText>
-  <EnglishText>&lt;Icon:406> can also be used to move freely around</EnglishText>
-  <Notes/>
-  <EditFlag>0</EditFlag>
- </Entry>
- <Entry>
-  <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000000B3</MemoryOffset>
-  </MemoryOffsets>
-  <LiteralPointers/>
-  <MipsPointers/>
-  <JapaneseText>自由に動き回ることができます。</JapaneseText>
-  <EnglishText>the battlefield, an action known as "free running."</EnglishText>
-  <Notes/>
-  <EditFlag>0</EditFlag>
- </Entry>
- <Entry>
-  <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000136</MemoryOffset>
-  </MemoryOffsets>
-  <LiteralPointers/>
-  <MipsPointers/>
-  <JapaneseText/>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000001B9</MemoryOffset>
+   <MemoryOffset Module="Main">48</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>&lt;Icon:406>で前進や後退の移動だけでなく</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">179</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>自由に動き回ることができます。</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">310</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>　</JapaneseText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">441</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>これを&lt;Color:340>フリーラン&lt;Color:440>と呼びます。</JapaneseText>
-  <EnglishText>This is useful for avoiding enemy attacks,</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x0000023C</MemoryOffset>
+   <MemoryOffset Module="Main">572</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText/>
-  <EnglishText>and also for putting yourself where you</EnglishText>
+  <JapaneseText>　</JapaneseText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000002BF</MemoryOffset>
+   <MemoryOffset Module="Main">703</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>敵の攻撃を避ける際や</JapaneseText>
-  <EnglishText>need to be.</EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x00000342</MemoryOffset>
+   <MemoryOffset Module="Main">834</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>好きな位置取りをしたい際などに</JapaneseText>
-  <EnglishText> </EnglishText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">0x000003C5</MemoryOffset>
+   <MemoryOffset Module="Main">965</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>役立ちます。</JapaneseText>
-  <EnglishText> </EnglishText>
+  <EnglishText/>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">1096</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>new line</JapaneseText>
+  <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

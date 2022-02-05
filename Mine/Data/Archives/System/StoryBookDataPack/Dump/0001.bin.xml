@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカが両親と朝食を取っていると</JapaneseText>
-  <EnglishText>While having breakfast with his parents, Ruca hears</EnglishText>
+  <EnglishText>While having breakfast with his parents,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>同級生の&lt;Color:340>エディ&lt;Color:440>と&lt;Color:340>ニーノ&lt;Color:440>から</JapaneseText>
-  <EnglishText>his classmates, &lt;Color:340>Eddie&lt;Color:440> and &lt;Color:340>Nino&lt;Color:440>, calling out to him</EnglishText>
+  <EnglishText>Ruca hears his classmates, &lt;Color:340>Eddie&lt;Color:440> and</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>誘いの声が、かかった。</JapaneseText>
-  <EnglishText>from outside.</EnglishText>
+  <EnglishText>&lt;Color:340>Nino&lt;Color:440>, calling out to him from outside.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>今日は、レグヌムの街から南にある</JapaneseText>
-  <EnglishText>Today, an important ceremony will be held for Ruca </EnglishText>
+  <EnglishText>Today, an important ceremony will be held</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>フルフィの森&lt;Color:440>で</JapaneseText>
-  <EnglishText>in the &lt;Color:240>Fluffy Forest&lt;Color:440> south of the city.</EnglishText>
+  <EnglishText>for Ruca in &lt;Color:240>Fluffy Forest&lt;Color:440>, south</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカのために大事な儀式が</JapaneseText>
-  <EnglishText> </EnglishText>
+  <EnglishText>of the city.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,18 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>行われるのだ</JapaneseText>
-  <EnglishText> </EnglishText>
+  <EnglishText>&lt;empty></EnglishText>
+  <Notes/>
+  <EditFlag>0</EditFlag>
+ </Entry>
+ <Entry>
+  <MemoryOffsets>
+   <MemoryOffset Module="Main">0x00000336</MemoryOffset>
+  </MemoryOffsets>
+  <LiteralPointers/>
+  <MipsPointers/>
+  <JapaneseText>new line</JapaneseText>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
