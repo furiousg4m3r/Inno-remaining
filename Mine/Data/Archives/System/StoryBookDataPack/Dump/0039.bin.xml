@@ -1,111 +1,111 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アシハラの猛獣退治</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Ashiharan Beast Extermination</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">46</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000002E</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>アシハラ王墓&lt;Color:440>に到着すると門番から</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Upon arrival to the &lt;Color:240>tomb's entrance&lt;Color:440>,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">143</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000008F</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>立ち入り許可は、アシハラにいる</JapaneseText>
-  <EnglishText/>
+  <EnglishText>they are informed by the gravekeepers that</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">240</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000F0</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ジロチョウにもらうよう言われる</JapaneseText>
-  <EnglishText/>
+  <EnglishText>the Town Elder's approval is required in</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">337</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000151</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたち。&lt;Color:240>アシハラ&lt;Color:440>に戻った</JapaneseText>
-  <EnglishText/>
+  <EnglishText>order to be able to enter it.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">434</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001B2</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちは、&lt;Color:340>ジロチョウ&lt;Color:440>から許可と</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Returning to &lt;Color:240>Ashihara&lt;Color:440>, the party agrees to</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">531</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000213</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>引き替えに猛獣退治を頼まれる。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>take on an extermination request from the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">628</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000274</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>猛獣をすべて退治したルカたちは</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Elder&lt;Color:440> in exchange for his permission.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">725</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002D5</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>さっそく&lt;Color:240>王墓&lt;Color:440>へ向かうことに</JapaneseText>
-  <EnglishText/>
+  <EnglishText>After finishing the request, the party</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">822</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000336</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText/>
+  <EnglishText>immediately sets out for the &lt;Color:240>Royal Tomb&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
