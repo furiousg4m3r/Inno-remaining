@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>いつもの夢から覚めたルカは</JapaneseText>
-  <EnglishText>Just woken up from the usual dream, Ruca is</EnglishText>
+  <EnglishText>Having woken up from the usual dream,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>母の声に誘われ、&lt;Color:240>リビング&lt;Color:440>へ向かう</JapaneseText>
-  <EnglishText>called by his mother to the &lt;Color:240>living room&lt;Color:440>.</EnglishText>
+  <EnglishText>Ruca is called by his mother to the &lt;Color:240>living&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:240>room&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
