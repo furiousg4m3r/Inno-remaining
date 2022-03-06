@@ -1,111 +1,111 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>のぞき疑惑</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Suspected Peeping</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">46</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000002E</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>温泉でケガを癒すルカ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>As Ruca was recovering in the hot spring,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">143</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000008F</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>その際、のぞきの疑いをかけられ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Illia suspected the men were peeping into</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">240</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000F0</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>イリアに撃たれそうになる。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>the women’s side and shot at them.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">337</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000151</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカのケガも回復し、次の目的地</JapaneseText>
-  <EnglishText/>
+  <EnglishText>After Ruca had recuperated, the party set</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">434</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001B2</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>ガルポス&lt;Color:440>へ向かおうとするが</JapaneseText>
-  <EnglishText/>
+  <EnglishText>out for &lt;Color:240>Galpos&lt;Color:440>. Unfortunately, the &lt;Color:240>Calypso&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">531</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000213</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>カリュプス鉱山&lt;Color:440>で落盤事故が発生。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:240>Mine&lt;Color:440> had suffered a cave-in.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">628</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000274</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>しかし、ルカたちは&lt;Color:240>ガルポス&lt;Color:440>行きの</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Unable to wait as there was a ship waiting</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">725</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002D5</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>船に乗るべく、&lt;Color:240>カリュプス鉱山&lt;Color:440>を</JapaneseText>
-  <EnglishText/>
+  <EnglishText>for them, the party decided to try and go</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">822</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000336</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>通り、&lt;Color:240>ガラム港&lt;Color:440>へ向かうことにする</JapaneseText>
-  <EnglishText/>
+  <EnglishText>through the mine despite the cave-in.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
