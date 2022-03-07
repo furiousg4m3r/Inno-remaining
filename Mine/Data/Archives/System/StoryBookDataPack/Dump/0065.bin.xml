@@ -1,111 +1,111 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>捕らわれの魂２</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Earthbound Souls 2</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">46</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000002E</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アンジュが、祈りを捧げても</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Despite praying for the lost souls within the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">143</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000008F</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>救われない転生者の魂たち。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>marsh, Ange was unable to save them.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">240</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000F0</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>　</JapaneseText>
+  <JapaneseText/>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">337</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000151</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>本来、転生者が死を迎えれば</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Souls originally were supposed to return to</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">434</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001B2</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>その魂は転生するはずなのに</JapaneseText>
-  <EnglishText/>
+  <EnglishText>the cycle of reincarnation upon death, so</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">531</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000213</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ここでは、地表を漂うばかり。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>why do they continue to wander this land?</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">628</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000274</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>一体、なにが起こっているのか？</JapaneseText>
-  <EnglishText/>
+  <EnglishText>This mystery was left behind, buried deep</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">725</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002D5</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>謎を残したまま、湿原を後にした</JapaneseText>
-  <EnglishText/>
+  <EnglishText>within the marsh.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">822</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000336</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

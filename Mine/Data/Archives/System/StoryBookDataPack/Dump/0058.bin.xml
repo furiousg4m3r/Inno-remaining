@@ -1,111 +1,111 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リカルドの裏切り２</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Ricardo’s Betrayal 2</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">46</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000002E</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>戸惑うルカたちの前に</JapaneseText>
-  <EnglishText/>
+  <EnglishText>To add to the party’s confusion, Mattheus </EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">143</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000008F</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>マティウスまで現れ、</JapaneseText>
-  <EnglishText/>
+  <EnglishText>appeared before them, leaving them with</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">240</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000F0</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちは逃げる術を失ってしまう</JapaneseText>
-  <EnglishText/>
+  <EnglishText>no way to escape.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">337</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000151</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>　</JapaneseText>
+  <JapaneseText/>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">434</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001B2</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>捕らえられたルカたちは</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Captured, the party is dragged off to the </EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">531</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000213</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>グリゴリの里&lt;Color:440>へと連行されることに</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:240>Grigori’s Hometown&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">628</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000274</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">725</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002D5</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">822</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000336</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

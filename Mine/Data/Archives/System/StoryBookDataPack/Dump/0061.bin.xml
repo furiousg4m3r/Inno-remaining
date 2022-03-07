@@ -1,111 +1,111 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>グリゴリの里にて２</JapaneseText>
-  <EnglishText/>
+  <EnglishText>In the Grigori’s Hometown 2</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">46</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000002E</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リカルドは、兄ガードルの真意を</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Knowing that Gardle was his brother,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">143</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000008F</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>知るため、彼に従っていたが</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Ricardo had obeyed him. However, Gardle</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">240</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000F0</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>かつての兄ではないことを知り、</JapaneseText>
-  <EnglishText/>
+  <EnglishText>was no longer the loving brother he knew,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">337</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000151</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちを助けてくれたのだった。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>and so he rescued the party.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">434</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001B2</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>　</JapaneseText>
+  <JapaneseText/>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">531</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000213</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リカルドの詫びを受け入れ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>The party forgave him for his actions,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">628</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000274</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>再び旅を続けるルカたち。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>and he joined them once again.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">725</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002D5</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>そして、&lt;Color:240>テノス&lt;Color:440>に入国するため</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Heading for &lt;Color:240>Tenos&lt;Color:440> next,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">822</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000336</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>いったん&lt;Color:240>マムート&lt;Color:440>へ向かうことに</JapaneseText>
-  <EnglishText/>
+  <EnglishText>the party steers the ship towards &lt;Color:240>Marmut&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

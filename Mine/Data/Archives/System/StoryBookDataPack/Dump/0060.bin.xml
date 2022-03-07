@@ -1,111 +1,111 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>グリゴリの里にて１</JapaneseText>
-  <EnglishText/>
+  <EnglishText>In the Grigori’s Hometown 1</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">46</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000002E</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リカルドの用意した食事を取りつつ</JapaneseText>
-  <EnglishText/>
+  <EnglishText>While waiting for the meal that Ricardo was</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">143</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000008F</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>夢を語り合うルカたち。しかし、</JapaneseText>
-  <EnglishText/>
+  <EnglishText>preparing for them, the party discussed their</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">240</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000F0</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>食事には薬が盛られていたらしく、</JapaneseText>
-  <EnglishText/>
+  <EnglishText>dreams. However, the food they were given</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">337</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000151</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>眠りに落ちてしまう。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>was drugged to make them fall asleep.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">434</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001B2</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>　</JapaneseText>
-  <EnglishText/>
+  <JapaneseText/>
+  <EnglishText>When they had woken up, they were on</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">531</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000213</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>目を覚ますと、そこは船の上。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>a boat.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">628</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000274</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>　</JapaneseText>
-  <EnglishText/>
+  <JapaneseText/>
+  <EnglishText>It turned out that the one who saved them</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">725</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002D5</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>グリゴリの里&lt;Color:440>から助けてくれたのは</JapaneseText>
-  <EnglishText/>
+  <EnglishText>from the &lt;Color:240>Grigori’s Hometown&lt;Color:440> was the traitor</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">822</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000336</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>裏切ったはずのリカルドだった</JapaneseText>
-  <EnglishText/>
+  <EnglishText>himself, Ricardo.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
